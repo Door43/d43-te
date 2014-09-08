@@ -4,7 +4,7 @@ Door43 Pages: te
 
 *Raw DokuWiki exports from door43.org for te*
 
-http://door43.org
+http://door43.org/te/
 
 Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
 
