@@ -15,6 +15,10 @@
     * [[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-te|d43-te repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-te/archive/master.zip|d43-te.zip]]
+
 **Recent Changes**
 {{changes>ns = te}}
 
