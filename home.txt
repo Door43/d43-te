@@ -1,8 +1,10 @@
 ====== Door43 (te) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
 
-===== అందుబాటులో వున్న వనరులు =====
+Welcome to Door43! Please feel free to [[:te:home?do=edit|edit]] this page in your own language.
+
+
+===== అందుబాటులో వున్న పాఠాలు =====
 
 
     * **[[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]**
