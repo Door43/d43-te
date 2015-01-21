@@ -1,7 +1,7 @@
 ====== ఉచిత బైబిలు కథలు (te) ======
 
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[/contact|just ask]]!
 
 
 {{page>en:obs:active}}
