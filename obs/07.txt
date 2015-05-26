@@ -24,11 +24,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-07.jpg?direct&}}
 
-లాబాను దగ్గర ఉన్న రోజుల్లో,యాకోబు నలుగురు  అమ్మాయిలను వివాహం చేసుకొన్నాడు.వారికి మొత్తం 12 మంది కుమారులు మరియు కుమార్తెలు పుట్టారు.దేవుడు యాకోబును గొప్ప సంపన్నవంతుడుగా ఆశీర్వదించాడు.
+లాబాను దగ్గర ఉన్న రోజుల్లో,యాకోబు నలుగురు అమ్మాయిలను వివాహం చేసుకొన్నాడు.వారికి మొత్తం 12 మంది కుమారులు మరియు కుమార్తెలు పుట్టారు.దేవుడు యాకోబును గొప్ప సంపన్నవంతుడుగా ఆశీర్వదించాడు.
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?direct&}}
 
-After twenty years away from his home in Canaan, Jacob returned there with his family, his servants, and all his herds of animals.{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?direct&}}
+20 సంవత్సరముల తర్వాత,యాకోబు తన కుటుంబమంతటిని మరియు తన మందలన్నింటిని తీసుకొని కానానుకు తిరిగివెళ్ళాడు.
+
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-09.jpg?direct&}}
 
 He was very afraid because he thought Esau still wanted to kill him. So he sent Esau many herds of animals as a gift. The servants who brought the animals said to Esau, “These animals are a gift from your servant, Jacob. He is coming soon.”
 
