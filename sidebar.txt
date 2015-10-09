@@ -1,19 +1,13 @@
 
-
 ----
-
 
 **Door43** 
 
-
     * [[:te:home|Door43 (te)]]
-
 
 వనరులు
 
-
     * [[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]
-
 
 **Downloads**
 
@@ -21,10 +15,6 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Recent Changes**
 {{changes>ns = te}}
-
-**Latest Status**
-{{page>en:uwadmin:te:obs:status}}
-
 
 **Language Information**
 
