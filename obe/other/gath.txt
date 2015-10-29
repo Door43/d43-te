@@ -1,0 +1,20 @@
+====== Gath ======
+
+===== Facts: =====
+
+Gath is one of the five major cities of the Old Testament Philistines.
+
+  * The Philistine champion Goliath was said to be from Gath.
+  * When King David was running from Saul he fled to Gath and spent some time there.
+
+(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>Gath&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft Psa056 ktlink}}
