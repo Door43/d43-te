@@ -1,11 +1,10 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Telugu ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:te:obe:kt:home|Key Terms]]
-  * [[:te:obe:other:home|Other Terms]]
-  * [[:te:bible:admin-reports:obe-admin:obe-reject]]
-  * [[:te:bible:team-info:training:topics:kt-yes-no|Is It a Key Term?]]
-==== All terms from both lists: ====
+  * [[:te:obe:kt:home]]
+  * [[:te:obe:other:home]]
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
+==== All Important Terms: ====
+
+<nspages te:obe -r -title -exclude:home -textPages="">
