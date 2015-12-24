@@ -1,0 +1,59 @@
+====== Zechariah 09:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 \add This is another\add* message \add that I received\add* from Yahweh.
+\q1 \add Yahweh said\add*, "I watch \f + \ft metonymy \f* everyone, especially the tribes of Israel;
+\q2 so I will \add punish the people in\add* the Hadrach \add region\add* and in Damascus \add city\add*
+\q2 \add because of what they did to the people of Israel\add*.
+\q1
+\v 2 I will also \add punish\add* \add the people in\add* nearby Hamath \add city\add*.
+\q1 I will also \add punish\add* \add the people in\add* Tyre and Sidon \add cities\add*,
+\q2 even though they are \add considered to be\add* \f + \ft irony \f* very wise.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 This is another message that I received from Yahweh about the region of Hadrach and the city of Damascus.
+For Yahweh carefully watches what everyone does, including the people of the tribes of Israel.
+\v 2 This message is also about the people in the region of Hamath near to Damascus, people who think they are very wise.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\p
+\v 1 This is a declaration of  Yahweh's word concerning the land of Hadrach and Damascus. For Yahweh's eye is on all mankind, as it is on the tribes of Israel.
+\v 2 This declaration also concerns Hamath, which borders on Damascus, and Tyre and Sidon, though they are very wise.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[te:obe:other:declare]]
+  * [[te:obe:kt:Yahweh]]
+  * [[te:obe:kt:wordofgod]]
+  * [[te:obe:other:damascus]]
+  * [[te:obe:other:12tribesofisrael]]
+  * [[:te:obe:other:tyre|Tyre]]
+  * [[:te:obe:other:sidon|Sidon]]
+  * [[:te:obe:kt:wise|wise, wisdom]]
+===== Translation Notes: =====
+
+  * **This is a declaration of Yahweh's word concerning** - AT: "This is Yahweh's message about"
+  * **the land of Hadrach and Damascus** - AT: "the people of the land of Hadrach and the city Damascus (See: [[:te:ta:vol1:translate:translate_names]]) (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **for Yahweh's eye is on all mankind** - AT: "for Yahweh is watching all mankind"
+  * **Hamath** - AT: "the people of the land of Hamath" (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **Tyre and Sidon** - AT: "the people of Tyre and Sidon" (See: [[:te:ta:vol2:translate:figs_metonymy]])
+ 
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:zec:09|Zechariah Chapter 09 Comprehension Questions]]**
+**[[:te:bible:notes:zec:08:23|<<]] | [[:te:bible:notes:zec:09:03|>>]]**
+
+~~DISCUSSION~~{{tag>text jimp}}
+
+~~NOCACHE~~

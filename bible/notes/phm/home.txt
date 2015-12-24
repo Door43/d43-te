@@ -1,0 +1,6 @@
+===== Philemon Links =====
+  * [[:te:ulb:ep:57-phm.usfm|Full ULB text of Philemon]]
+  * [[:te:udb:ep:57-phm.usfm|Full UDB text of Philemon]]
+  * [[te:bible:admin-reports:notes-team-admin:phm]]
+  * [[:te:bible:team-info:training:notes-training|Notes Training]]
+<nspages te:bible:notes:phm:01 -title -naturalOrder -exclude:home -textPages="Philemon 1" -nbCol=2> 

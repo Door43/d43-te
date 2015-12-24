@@ -1,0 +1,61 @@
+====== Deuteronomy 30:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 I am requesting \add everyone in\add* heaven and on the earth to testify to you, that today I am allowing you to choose whether you \add want to\add* live for a long time or to soon die, whether \add you want Yahweh to\add* bless you or to curse you. So choose to live.
+\v 20 \add Choose to\add* love Yahweh our God, and to obey him \f + \ft metonymy \f*, and to be faithful to\f + \ft Or: have a close relationship with \f* him. If you do that, you and your descendants will live for a long time in the land that Yahweh solemnly promised to your ancestors Abraham, Isaac, and Jacob, that he would give to them."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 I am requesting everyone in heaven and on the earth to testify to you, that today I am allowing you to choose whether you want to live for a long time or to soon die, whether you want Yahweh to bless you or to curse you. So choose to live.
+\v 20 Decide to love Yahweh our God, and to obey him  him. If you do that, you and your descendants will live for a long time in the land that Yahweh solemnly promised to your ancestors Abraham, Isaac, and Jacob, that he would give to them."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 19 I call heaven and earth to witness against you today that I have set before you life and death, the blessings and the curses; therefore choose life so that you may live, you and your descendants.
+\v 20 Do this so as to love Yahweh your God, to obey his voice, and to cling to him. For he is your life and the length of your days; do this so that you may live in the land that Yahweh swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give them."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:heaven]]
+  * [[:te:obe:other:earth]]
+  * [[:te:obe:kt:witness|witness, eyewitness]]
+  * [[:te:obe:kt:life]]
+  * [[:te:obe:kt:death|death, die, dead]]
+  * [[:te:obe:kt:bless|bless, blessing]]
+  * [[:te:obe:kt:curse]]
+  * [[:te:obe:kt:elect|chosen one, chosen people, Chosen One, the elect]]
+  * [[:te:obe:other:descendant|descendant]]
+  * [[:te:obe:kt:love]]
+  * [[:te:obe:other:obey]]
+  * [[:te:obe:other:voice]]
+  * [[:te:obe:kt:promisedland|land, Promised Land]]
+  * [[:te:obe:other:oath|oath, swear, swear by]]
+  * [[:te:obe:other:abraham|Abraham, Abram]]
+  * [[:te:obe:other:isaac|Isaac]]
+  * [[:te:obe:other:jacob|Jacob, Israel]]
+
+===== Translation Notes: =====
+
+  * **I call**  - "I" is Moses, who continues speaking.
+  * **I call heaven and earth to witness against you today**  - Moses treats the creation as if it were an eyewitness to his words. (See: [[:te:ta:vol2:translate:figs_personification]])
+  * **heaven and earth** - These words together mean "all creation". (See: [[:te:ta:vol2:translate:figs_merism]])
+  * **obey his voice**  - AT: "obey him". (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **For he is your life and the length of your days**  - This means that Yahweh is the one who can give the Israelites life, and long life. (See: [[:te:ta:vol2:translate:figs_metonymy]])
+
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:30|Deuteronomy Chapter 30 Comprehension Questions]]
+
+**[[:te:bible:notes:deu:30:17|<<]] | [[:te:bible:notes:deu:31:01|>>]]
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

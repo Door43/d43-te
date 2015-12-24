@@ -1,0 +1,95 @@
+====== Psalms 037:28-30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 28 This will happen because Yahweh likes to see people doing what is just,
+\q2 and he will never forsake righteous\f + \ft Or: godly \f* people.
+\b
+\q1 He will protect them forever;
+\q2 but he will get rid of the children of wicked people.
+\q1
+\v 29 Righteous\f + \ft Or: Godly \f* people will own the land \add that Yahweh promised to give to them\add*,
+\q2 and they will live there forever.
+\b
+\q1
+\v 30 Righteous people give wise advice to others,
+\q2 and they \f + \ft metonymy \f* speak what is just\f + \ft Or: fair \f*.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 28 This will happen because Yahweh likes to see people doing what is just,
+\q2 and he will never forsake righteous people.
+\b
+\q1 He will protect them forever;
+\q2 but he will get rid of the children of wicked people.
+\q1
+\v 29 Righteous people will own the land that Yahweh promised to give to them,
+\q2 and they will live there forever.
+\b
+\q1
+\v 30 Righteous people give wise advice to others,
+\q2 and they encourage other people to live rightly.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 28 For Yahweh loves justice
+\q and does not abandon his faithful followers.
+\q They are preserved forever,
+\q but the descendants of the wicked will be cut off.
+\q
+\v 29 The righteous will inherit the land
+\q and live there forever.
+\q
+\v 30 The mouth of the righteous person speaks wisdom
+\q and increases justice.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:love]]
+  * [[:te:obe:kt:faithful]]
+  * [[:te:obe:kt:forever]]
+  * [[:te:obe:kt:righteous]]
+  * [[:te:obe:other:descendant]]
+  * [[:te:obe:kt:cutoff]]
+  * [[:te:obe:kt:life]]
+  * [[:te:obe:kt:wise]]
+  * [[:te:obe:kt:justice]]
+
+===== Translation Notes: =====
+
+
+    * **does not abandon**  - AT:"will never forsake"  (See: [[:te:obe:kt:forsaken]]) 
+    * **faithful followers**  - See: [[:te:obe:kt:disciple]]
+    * **are preserved forever**  - AT: "will protect them forever" (UDB)
+    * **The mouth of the righteous person speaks wisdom and increases justice**  - AT: "Righteous people give wise advice to others, and they encourage other people to live rightly" (UDB) (See: [[:te:ta:vol1:translate:figs_idiom]])
+
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:psa:037|Psalms Chapter 037 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/037/025|<<]] | [[en/bible/notes/psa/037/031|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,66 @@
+====== Judges 04:1-3 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 After Ehud died, the Israelites again started doing things Yahweh said were very evil.
+\v 2 So he allowed the army of Jabin, one of the kings of Canaan land, who ruled in Hazor \add city\add*, to conquer the Israelites. The commander of his army was Sisera, who lived in Harosheth-Haggoyim.
+\v 3 Sisera's \add army\add* had 900 chariots. For twenty years he oppressed the Israelites. Then they pleaded to Yahweh to help them.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 After Ehud died, the Israelites did not obey Yahweh and they did evil things, and Yahweh saw what they were doing.
+\v 2 So he allowed the army of Jabin, one of the kings in the region of Canaan, who ruled in the city of Hazor, to conquer the Israelites. The commander of his army was Sisera, who lived in Harosheth (where many of those who were not Israelites lived).
+\v 3 Sisera's army had nine hundred chariots made out of iron. For twenty years he oppressed the Israelites. Then they pleaded to Yahweh to help them.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 4
+\p
+\v 1 After Ehud died, the people of Israel disobeyed Yahweh again, by doing evil things, and he saw what they did.
+\v 2 Yahweh handed them over to the power of Jabin king of Canaan, who reigned in Hazor. The commander of his army was named Sisera, and he lived in Harosheth of the Gentiles.
+\v 3 The people of Israel called out to Yahweh for help, because Sisera had nine hundred iron chariots and he oppressed the people of Israel with force for twenty years.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:death]]
+  * [[:te:obe:other:israel]]
+  * [[:te:obe:other:disobey]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:kt:evil]]
+  * [[:te:obe:other:hand]]
+  * [[:te:obe:kt:power]]
+  * [[:te:obe:other:king]]
+  * [[:te:obe:other:canaan]]
+  * [[:te:obe:other:reign]]
+  * [[:te:obe:other:commander]]
+  * [[:te:obe:other:Gentile]]
+  * [[te:obe:kt:call]]
+  * [[:te:obe:other:chariot]]
+  * [[:te:obe:kt:oppress]]
+
+===== Translation Notes: =====
+
+  * **Ehud... Sisera**  - See how you translated this in [[:te:bible:notes:jdg:03:15|Judges 3:15]].
+  * **Jabin **- The names of men. (See: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+  * **Hazor...Haroseth**  - The names of places. (See: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+  * **nine hundred iron chariots**  - "900 iron chariots" (See: [[:te:ta:vol2:translate:translate_numbers|Translate Numbers]])
+  * **twenty years**  - "20 years"
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:03:31|<<]] | [[:te:bible:notes:jdg:04:04|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

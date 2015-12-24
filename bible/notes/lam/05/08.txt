@@ -1,0 +1,77 @@
+====== Lamentations 05:8-10 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 \add Officials from Babylon\add* who were \add previously\add* slaves now rule over us,
+\q2 and there is no one who can rescue us from their power.
+\q1
+\v 9 When we roam around in the desert searching for food, we are in danger of being killed,
+\q2 because people there kill strangers with their swords.
+\q1
+\v 10 Our skin has become hot like \f + \ft simile \f* an oven,
+\q2 and we have a very high fever because we are extremely hungry.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Now the people who rule over us are themselves slaves to their own masters in Babylon.
+\q2 There is no one who can rescue us from their power.
+\q1
+\v 9 We go far to look for food, but we are in danger of dying when we do so,
+\q2 because of the robbers who live in the wilderness.
+\q1
+\v 10 Our skin has become hot like an oven,
+\q2 and we have a very high fever because we are extremely hungry.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Slaves rule over us,
+\q and there is no one to rescue us out of their hand.
+\q
+\v 9 We are risking our lives to get our bread
+\q in the face of the sword of the wilderness.
+\q
+\v 10 Our skin is like an oven,
+\q burnt up from the fever of famine.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:servant]]
+  * [[:te:obe:other:ruler|ruler, rule]]
+  * [[:te:obe:other:bread]]
+  * [[:te:obe:other:sword]]
+  * [[:te:obe:other:desert|wilderness, desert]]
+  * [[:te:obe:other:famine]]
+ 
+
+===== Translation Notes: =====
+
+  * **there is no one to rescue us out of their hand**  - AT: "No one can rescue us from their power." (See: Metonymy)
+  * **their**  - This refers to the Babylonian invaders.
+  * **to get our bread**  - This refers to finding the cheapest and most basic food to eat. (See: Metonymy)
+  * **in the face of the sword**  - AT: "despite the danger of robbers, who use swords as weapons." (See: Metonymy)
+  * **Our skin is like an oven**  - Their skin is extremely hot because they are starving. (See: Simile)
+  * **burnt up from the fever of famine** - Possible meanings are: 1) "we have a very high fever because we are extremely hungry" (see UDB) or 2) "our bodies are experiencing the result of being very hungry"
+
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:lam:05:05|<<]] | [[:te:bible:notes:lam:05:11|>>]]**
+
+~~DISCUSSION~~{{tag>Check  desert famine}}
+
+~~NOCACHE~~

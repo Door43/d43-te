@@ -1,0 +1,67 @@
+====== Deuteronomy 32:42 ======
+
+===== TFT: =====
+
+<usfm>
+\v 42 I will kill all \add of my enemies\add* with a sword;
+\q2 it will be as though I had arrows that will be covered with their blood.
+\q1 I will kill \f + \ft metonymy \f* all those whom I capture
+\q2 and cut off their long-haired heads.'
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 42 I will kill all of my enemies with a sword;
+\q it will be as though I had arrows that were covered with their blood.
+\q I will kill all those whom I capture
+\q and cut off their heads.'
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 42 I will make my arrows drunk with blood,
+\q and my sword will devour flesh
+\q with the blood of the killed and the captives,
+\q and from the heads of the leaders of the enemy.’”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:bowweapon]]
+  * [[:te:obe:other:drunk|drunk]]
+  * [[:te:obe:kt:blood|blood]]
+  * [[:te:obe:other:sword]]
+  * [[:te:obe:other:devour|devour]]
+  * [[:te:obe:kt:flesh|flesh]]
+  * [[:te:obe:other:captive|captive, captivity]]
+  * [[:te:obe:other:head|head]]
+  * [[:te:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+From verse 37-42, Moses quotes Yahweh.
+
+  * **I will make mine arrows drunk with blood and my sword will devour flesh - ** (See: [[:te:ta:vol2:translate:figs_doublet]]) This is a metaphor comparing the arrows and the sword with a person's mouth that can drink and eat. (See: [[:te:ta:vol1:translate:figs_metaphor]]) The edge of the sword is called its mouth, because as a mouth, it devours. AT: "My arrows will drip with blood and my sword will pierce flesh"
+  * **with the blood of the killed and the captives, and from the heads of the leaders of the enemy. **  - This refers to the people that would be judged by Yahweh.
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:41|<<]] | [[:te:bible:notes:deu:32:43|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

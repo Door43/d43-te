@@ -1,0 +1,84 @@
+====== Lamentations 05:19-22 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 But Yahweh, you rule forever!
+\q2 You continue to rule \f + \ft metonymy \f* from one generation to the next generation.
+\q1
+\v 20 So why \f + \ft rhetorical question \f* have you forgotten us?
+\q2 Why \f + \ft rhetorical question \f* have you abandoned us for a very long time?
+\q1
+\v 21 \add Please\add* enable us to return to you,
+\q2 and enable us to prosper \f + \ft metonymy \f* as we did previously.
+\q1
+\v 22 Please do that, because we hope that \f + \ft rhetorical question \f* you have not rejected us forever
+\q2 and that \f + \ft rhetorical question \f* you do not continue to be extremely angry with us!
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 But Yahweh, you rule forever!
+\q2 You continue to rule from one generation to the next generation.
+\q1
+\v 20 So why have you forgotten us?
+\q2 Will you abandon us for a very long time?
+\q1
+\v 21 Please enable us to return to you,
+\q2 and enable us to prosper as we did previously.
+\q1
+\v 22 Please do that, or is really true that you have rejected us forever? 
+\q2 It is really true that you will never stop being extremely angry with us!
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 But you are Yahweh; you reign forever,
+\q and your throne is from generation to generation.
+\q
+\v 20 Why do you forget us forever?
+\q Will you forsake us for very, very long?
+\q
+\v 21 Turn us back to you, Yahweh, and we will repent.
+\q Restore our days as of old,
+\q
+\v 22 unless we truly are rejected
+\q and your anger towards us is too great!
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:yahweh|Yahweh]]
+  * [[:te:obe:other:reign|reign]]
+  * [[:te:obe:kt:eternity|eternity, everlasting, forever]]
+  * [[:te:obe:other:throne|throne]]
+  * [[:te:obe:other:generation|generation]]
+  * [[:te:obe:kt:forsaken|forsake, forsaken]]
+  * [[:te:obe:kt:repent|repent, repentance]]
+  * [[:te:obe:kt:restore|restore, restoration]]
+  * [[:te:obe:kt:true|true, truth]]
+  * [[:te:obe:other:reject|reject, push away]]
+  * [[:te:obe:other:angry|angry, anger]]
+
+===== Translation Notes: =====
+
+  * **you reign forever, and your throne is from generation to generation.**- These two phrases mean generally the same thing. (See: Parallelism)
+  *  **your throne** - God's throne represents his power and authority to rule as king. (See: Metonymy)
+  *  **from generation to generation** - This means that God always rules, year after year. (See: Idiom)
+  * **Restore our days as of old**  - "Restore our days" is a way to speak of restoring the people. AT: "Renew us so that we will be like we were long ago." (See: Metonymy)
+  * **Why do you forget us forever? Will you forsake us for very, very long?**  - The author is complaining that God should remember his people and help them. (See: Rhetorical question)
+  * **unless we truly are rejected and your anger towards us is too great!**  - Possible meanings are 1) that this is a cry of despair. AT - "It is really true that you will never stop being extremely angry with us!" (See UDB), or 2) that the author does not know the answer to the question. AT - "We don't know if you have truly rejected us and your anger towards us is too great!" (as the ULB). (See: Rhetorical question)
+  * **unless we truly are rejected**  - AT: "unless you, God, have truly rejected us." (See: Active/Passive)
+  * **bold words**  - explanation
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:lam:05:17|<<]] | **
+
+~~DISCUSSION~~{{tag>check yahweh reign everlasting generation repent true}}
+
+~~NOCACHE~~

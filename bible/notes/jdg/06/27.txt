@@ -1,0 +1,45 @@
+====== Judges 06:27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 So Gideon and his servants did what Yahweh commanded. But they did it at night, because he was afraid what the other members of his family and the other men in town would do to him if they found out that he had done that.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 So Gideon and his servants did what Yahweh commanded. But they did it at night, because he was afraid what the other members of his family and the other men in town would do to him if they found out that he had done that.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 27 So Gideon took ten of his servants and did as Yahweh had told to him. But because he was too afraid of his father’s household and the men of the town to do it during the day, so he did it at night.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:Gideon]]
+  * [[:te:obe:other:servant]]
+  * [[:te:obe:kt:Yahweh]]
+  * [[:te:obe:kt:fear]]
+  * [[:te:obe:other:father]]
+  * [[:te:obe:other:household]]
+
+===== Translation Notes: =====
+
+  * **ten**  - "10"  (See: [[te:ta:vol2:translate:translate_numbers]])
+  * **and did as Yahweh**  - "and built the altar and sacrificed the bulls as Yahweh"
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:06:25|<<]] | [[:te:bible:notes:jdg:06:28|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

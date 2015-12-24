@@ -1,0 +1,67 @@
+====== Lamentations 03:64-66 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 64 Yahweh, cause them to suffer
+\q2 in return for their causing me to suffer!
+\q1
+\v 65 Curse them [IDI]
+\q2 for their being very stubborn [IDI].
+\q1
+\v 66 Because you are angry with them, pursue them and get rid of them,
+\q2 \add until none of them remain\add* on the earth.
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 64 Yahweh, cause them to suffer
+\q2 in return for their causing me to suffer!
+\q1
+\v 65 Curse them
+\q2 and make them very, very afraid of you [IDI].
+\q1
+\v 66 Because you are angry with them, pursue them and get rid of them,
+\q2 until none of them remain on the earth.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 64 You will return a recompense to them, Yahweh, according to what their hands have done.
+\q
+\v 65 You will set fear in their heart, your curse upon them.
+\q
+\v 66 You will pursue them in wrath, and destroy them from under the heavens, Yahweh!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[te:obe:other:hand]]
+  * [[:te:obe:kt:fear]]
+  * [[:te:obe:other:heart]]
+  * [[:te:obe:kt:curse]]
+  * [[:te:obe:kt:wrath]]
+  * [[:te:obe:kt:heaven]] 
+
+===== Translation Notes: =====
+
+  * **You will return a recompense to them** - This means that God will repay them with harm.
+  * **what their hands have done** - AT: "what they have done" (See: [[:te:ta:vol2:translate:figs_synecdoche]])
+  * **You will set fear in their heart** - AT: "You will make them deeply afraid" (See: [[:te:ta:vol2:translate:figs_synecdoche]])
+  * **from under the heavens** - AT: "from wherever they are on earth" (See: [[:te:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:lam:03|Lamentations Chapter 03 Comprehension Questions]]**
+**[[:te:bible:notes:lam:03:62|<<]] | [[:te:bible:notes:lam:04:01|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

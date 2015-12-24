@@ -1,0 +1,70 @@
+====== Lamentations 05:11-12 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 11 \add Our enemies\add* have raped the women in Jerusalem,
+\q2 and they have done that to the young women in all the towns of Judea.
+\q1
+\v 12 \add Our enemies\add* have hanged our leaders,
+\q2 and they do not respect our elders.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 11 Our enemies have raped the women in Jerusalem,
+\q2 and they have done that to the young women in all the towns of Judea.
+\q1
+\v 12 Our enemies have hanged our leaders,
+\q2 and they have not respected our elders.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 They have raped the women in Zion,
+\q the virgins in the cities of Judah.
+\q
+\v 12 They hung princes by their own hands,
+\q and they have not honored the elders.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:zion]]
+  * [[:te:obe:other:virgin]]
+  * [[:te:obe:other:judah]]
+  * [[:te:obe:other:prince]]
+  * [[:te:obe:other:honor]]
+  * [[:te:obe:other:elder]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **They have raped the women in Zion, the virgins in the cities of Judah.** - These two clauses mean generally the same thing. (See: Parallelism)
+    * **they**  - This refers to the Babylonian invaders.
+    * **They hung princes by their own hands**  - Possible meanings are 1) "Our enemies have hanged our leaders", using their own hands to do it (see UDB), or 2) "Our enemies have tied up the hands of the princes and suspended them by their hands."
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:lam:05:08|<<]] | [[:te:bible:notes:lam:05:13|>>]]**
+
+~~DISCUSSION~~{{tag>Check }}
+
+~~NOCACHE~~

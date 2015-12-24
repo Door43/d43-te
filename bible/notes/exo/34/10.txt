@@ -1,0 +1,54 @@
+====== Exodus 34:10-11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 10 Yahweh replied, "Note this: I am going to make a solemn agreement \add with the Israelite people\add*. As they are watching, I will perform great miracles. They will be miracles that no one has ever done on the earth in any nation. All the people who are near you will see the great things that I, Yahweh, will do. I will do awesome things for you \add all\add*.
+\v 11-12 \add Each Israelite\add* person must obey what I am commanding you this day. Do not forget that \add if you do that\add*, I will expel the Amor, Canaan, Heth, Periz, Hiv, and Jebus people-groups \add from the land\add*. But be careful that you do not make any \add peace\add* agreements with any of the people who live in the land into which you are going, because if you \add do that\add*, \add you will begin to do the evil things that they do\add*. It will be \add like\add* falling into a trap.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 10 Yahweh replied, "I am about to make a covenant with your people, the Israelite people. As they are watching, I will perform great miracles. They will see miracles that no one has ever done on the earth in any people group. Everyone among your people will see the great things that I, Yahweh, will do. I will do things for you all that will make you fear me.
+\v 11 Do what I tell you to do today. I am about to make the Amor, Canaan, Heth, Periz, Hiv, and Jebus people groups leave the land.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 10 Yahweh said, "See, I am about to make a covenant. Before all your people, I will do marvels such as have not been done in all the earth nor in any nation. All the people among you will see my deeds, for it is a fearful thing that I am doing with you.
+\v 11 Obey what I command you today. I am about to drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites, and Jebusites.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[te:obe:kt:yahweh]]
+  * [[te:obe:kt:covenant]]
+  * [[te:obe:other:peoplegroup]]
+  * [[te:obe:other:amazed]]
+  * [[:te:obe:other:nation]]
+  * [[:te:obe:kt:works]]
+  * [[:te:obe:kt:fear]]
+  * [[:te:obe:other:obey]]
+  * [[:te:obe:other:command]]
+  * [[te:obe:other:castout]]
+  * [[:te:obe:other:amorite]]
+  * [[:te:obe:other:canaan]]
+  * [[:te:obe:other:hittite]]
+  * [[:te:obe:other:perizzite]]
+  * [[te:obe:other:hivite]]
+  * [[:te:obe:other:jebusites]]
+
+===== Translation Notes: =====
+  * **your people** - Here "your" refers to Moses. (See: [[:te:ta:vol1:translate:figs_you]])
+  * **I am doing with you** - Here "you" refers to Moses and the people of Israel.
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:exo:34|Exodus Chapter 34 Comprehension Questions]]**
+**[[:te:bible:notes:exo:34:08|<<]] | [[:te:bible:notes:exo:34:12|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

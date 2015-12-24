@@ -1,0 +1,68 @@
+====== Lamentations 05:15-16 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 15 We \f + \ft synecdoche \f* are no longer joyful;
+\q2 instead of dancing \add joyfully\add*, we now mourn.
+\q1
+\v 16 The wreaths of flowers have fallen off our heads.
+\q2 Terrible things have happened to us because of the sins that we committed.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15 We  are no longer joyful;
+\q2 instead of dancing joyfully, we now mourn.
+\q1
+\v 16 The wreaths of flowers have fallen off our heads.
+\q2 Terrible things have happened to us because of the sins that we committed.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 The joy of our heart has ceased;
+\q our dances have changed into mourning.
+\q
+\v 16 The crown has fallen from our head!
+\q Woe to us! For we have sinned!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:joy]]
+  * [[:te:obe:other:heart]]
+  * [[:te:obe:other:mourn]]
+  * [[:te:obe:other:crown]]
+  * [[:te:obe:kt:woe]]
+  * [[:te:obe:kt:sin]] 
+
+===== Translation Notes: =====
+
+
+    * **the joy of our heart**  - This refers to joy that comes from deep within the person. (See: Synecdoche)
+    * **The crown has fallen from our head!**  - Possible meanings are 1) "The wreaths of flowers have fallen off our heads", referring to flowers worn by young people in celebrations (See UDB) or 2) "the royal crown has fallen from our head" and we no longer rule as kings. (See: Metonymy)
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:lam:05:13|<<]] | [[:te:bible:notes:lam:05:17|>>]]**
+
+~~DISCUSSION~~{{tag>Check joy  }}
+
+~~NOCACHE~~

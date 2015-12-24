@@ -1,0 +1,59 @@
+====== 1 Chronicles 02:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 The sons of Jacob were Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+\v 2 Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+
+\li1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 The sons of Jacob were Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+\v 2 Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+
+
+
+\li1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 2
+\p
+\v 1 These were Israel's sons: Reuben, Simeon, Levi, Judah, Issachar,  Zebulun,
+\v 2 Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:jacob]]
+  * [[:te:obe:other:reuben]]
+  * [[:te:obe:other:simeon]]
+  * [[:te:obe:other:levite]]
+  * [[:te:obe:other:judah]]
+  * [[:te:obe:other:issachar]]
+  * [[:te:obe:other:zebulun]]
+  * [[:te:obe:other:dan]]
+  * [[:te:obe:other:josephot]]
+  * [[te:obe:other:benjamin]]
+  * [[:te:obe:other:naphtali]]
+  * [[:te:obe:other:gad]]
+  * [[:te:obe:other:asher]]
+
+===== Translation Notes: =====
+
+  * **Reuben ... Asher** - These are all names of people. (See: [[:te:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:1ch:02|1 Chronicles Chapter 02 Comprehension Questions]]**
+**[[:te:bible:notes:1ch:01:51|<<]] | [[:te:bible:notes:1ch:02:03|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

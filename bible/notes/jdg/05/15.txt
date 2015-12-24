@@ -1,0 +1,57 @@
+====== Judges 05:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 Leaders from the tribes descended from Issachar joined Barak and me.
+\q2 They followed Barak, rushing down into the valley.
+\q1 But men from the tribe descended from Reuben could not decide.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 Leaders from the tribes descended from Issachar joined Barak and me.
+\q2 They followed Barak, rushing down into the valley.
+\q1 But men from the tribe descended from Reuben could not decide what they should do.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 And my princes in Issachar were with Deborah;
+\q and Issachar was with Barak
+\q rushing after him into the valley under his command.
+\q Among the clans of Reuben
+\q there were great searchings of heart.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:prince]]
+  * [[:te:obe:other:issachar]]
+  * [[:te:obe:other:command]]
+  * [[:te:obe:other:clan]]
+  * [[:te:obe:other:reuben]]
+  * [[:te:obe:other:heart]]
+
+===== Translation Notes: =====
+
+   * **And my princes**  - "And Deborah's princes"
+   * **Deborah** - See how you translated her name in [[:te:bible:notes:jdg:04:04|4:4]].
+   * **Barak**  - See how you translated his name in [[:te:bible:notes:jdg:04:06|4:6]].
+   * **rushing after** - "following"
+   * **searchings of heart** - The people of Reuben are described as searching the part of the body associated with emotional decisions. AT: "decisions to be made" (See: [[:te:ta:vol2:translate:figs_metonymy]])  The people of Reuben needed to decide if they were willing to go to war with Deborah and Barak. (See: [[:te:ta:vol1:translate:figs_explicit]])
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:05:14|<<]] | [[:te:bible:notes:jdg:05:16|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

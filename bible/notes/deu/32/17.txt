@@ -1,0 +1,74 @@
+====== Deuteronomy 32:17-18 ======
+
+===== TFT: =====
+
+<usfm>
+\v 17 They offered sacrifices to gods who were \add really\add* demons,
+\q2 gods that their ancestors had never known;
+\q1 they offered sacrifices to gods that they had recently found out about,
+\q2 gods whom your ancestors had never had an awesome respect for.
+\q1
+\v 18 They forgot \add the true\add* God, the one who protects them \f + \ft metaphor \f*,
+\q2 the one who created them and caused them to live.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 17 They offered sacrifices to gods who were really demons,
+\q gods that their ancestors had never known;
+\q they offered sacrifices to gods that they had recently found out about,
+\q gods whom your ancestors had never had any  respect for.
+\q
+\v 18 They forgot the true God, the one who protects them,
+\q the one who created them and caused them to live.
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 They sacrificed to demons, which are not God—
+\q gods they had not known,
+\q gods that recently appeared,
+\q gods your fathers did not fear. 
+\q
+\v 18 You have deserted the Rock, who became your father,
+\q and you forgot the God who gave you birth.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:sacrifice|sacrifice, offering]]
+  * [[:te:obe:kt:demon|demon, evil spirit, unclean spirit]]
+  * [[:te:obe:kt:god]]
+  * [[:te:obe:kt:falsegod]]
+  * [[:te:obe:other:know|know, knowledge, make known]]
+  * [[:te:obe:other:father]]
+  * [[:te:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+  * **They - ** This refers to the people of Israel.
+  * **gods that recently appeared **- AT: "new gods that had come recently"
+  * **You have deserted the Rock **- Moses is saying that Yahweh is as strong and solid as a rock (See: [[:te:ta:vol1:translate:figs_metaphor]])
+  * **who became your father, God who gave you birth**  - AT: "who fathered you, God who gave you life" This metaphor compares Yahweh as a father and as a mother, caring for the people of Israel. (See: [[:te:ta:vol1:translate:figs_metaphor]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:15|<<]] | [[:te:bible:notes:deu:32:19|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

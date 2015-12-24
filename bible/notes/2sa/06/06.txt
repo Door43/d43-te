@@ -1,0 +1,54 @@
+====== 2 Samuel 06:6-7 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 6 But when they came to the place where Nacon threshed grain, the oxen stumbled. So Uzzah put his hand on the sacred chest to steady it\f + \ft Or: prevent it from falling \add off the cart\add* \f*.
+\v 7 Yahweh immediately became very angry with Uzzah, and killed him right there alongside the sacred chest, because he had touched the chest, \add and Yahweh had commanded that only the descendants of Levi who help the priests should touch the sacred chest\add*.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 6 But when they came to the place where Nacon threshed grain, the oxen stumbled. So Uzzah put his hand on the sacred chest to steady it.
+\v 7 Yahweh immediately became very angry with Uzzah, and killed him right there alongside the sacred chest, because he had touched the chest. Yahweh had commanded that only the descendants of Levi who help the priests should touch the sacred chest.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 6 When they came to the threshing floor of Nacon, the oxen stumbled, and Uzzah reached out with his hand to grab the ark of God, and he took hold of it.
+\v 7 Then the anger of Yahweh burned against Uzzah. God attacked him there for his presumption. Uzzah died there by the ark of God.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:thresh]]
+  * [[:te:obe:other:ox]]
+  * [[:te:obe:other:angry]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:kt:death]]
+ 
+===== Translation Notes: =====
+
+  * **Nacon**  - name of a person (See: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+  * ** stumbled ** -  to hit your foot on something when you are walking or running so that you fall or almost fall
+  * **presumption**  - an act or instance of taking something to be true
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:2sa:06:03|<<]] | [[:te:bible:notes:2sa:06:08|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

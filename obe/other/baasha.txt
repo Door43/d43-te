@@ -2,20 +2,21 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Baasha was one of Israel's evil kings, who influenced the Israelites to worship idols.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Baasha was the third king of Israel and reigned for twenty-four years, during the time when Asa was king of Judah.
+  * He was a military commander who became king by killing the previous king, Nadab.
+  * During Baasha's reign there were many wars between the kingdoms of Israel and Judah.
+  * Baasha's many sins caused God to eventually remove him from office by his death.
 
-(See also: other)
+(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:te:obe:other:Asa]], [[:te:obe:other:idol]])
 
 ===== Bible References: =====
 
-{{topic>Baasha&nocomments}}
-
-~~DISCUSSION~~
+{{topic>Baasha&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create 1Ki15 ktlink}}
+{{tag>publish}}

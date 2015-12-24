@@ -1,0 +1,62 @@
+====== Judges 05:11 ======
+
+===== TFT: =====
+
+<usfm>
+\v 11 Listen to the voices of the singers who gather at the places where \add the animals drink\add* water.
+\q2 They tell about how Yahweh acted righteously
+\q2 when he enabled the Israelite warriors to conquer \add their enemies\add*.
+\b
+\q1 Yahweh's people marched down to the gates of my city.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 11 Listen to the voices of the singers who gather at the places where the animals drink water.
+\q2 They tell about how Yahweh acted righteously
+\q2 when he enabled the Israelite warriors to conquer their enemies.
+\b
+\q1 Yahweh's people marched down to the city gates.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 11 Hear the voices of those who divide up the sheep between the watering places, 
+\q there they tell again of Yahweh’s righteous deeds,
+\q and the righteous actions of his warriors in Israel.
+\q "Then the people of Yahweh went down to the city gates.
+\b
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:voice]]
+  * [[:te:obe:other:sheep]]
+  * [[:te:obe:other:water]]
+  * [[:te:obe:kt:Yahweh]]
+  * [[:te:obe:kt:righteous]]
+  * [[:te:obe:kt:works]]
+  * [[:te:obe:other:Israel]]
+  * [[:te:obe:kt:peopleofgod]]
+  * [[:te:obe:kt:gate]]
+
+===== Translation Notes: =====
+
+The song of Deborah and Barak continues.
+
+  * **Hear the voices of those who divide up the sheep between the watering places** - This describes singers who would tell stories through song.  They stood between the herds of sheep drinking water at different pools and sang for the people who gathered there.
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:05|Judges Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:05:09|<<]] | [[:te:bible:notes:jdg:05:12|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

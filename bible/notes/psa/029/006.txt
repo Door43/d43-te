@@ -1,0 +1,66 @@
+====== Psalms 029:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 He causes \add the mountains in\add* Lebanon to jump like calves jump,
+\q2 and causes Hermon Mountain to jump like a young bull jumps.
+\q1
+\v 7 Yahweh's voice causes lightning to flash.
+\q1
+\v 8 His voice causes the desert to shake;
+\q2 he shakes Kadesh Desert \add in the southern part of Judah\add*.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 He causes earthquakes to shake the region of Lebanon as a young cow jumps;
+\q2 he causes Mount Hermon to shake as a young bull jumps.
+\q1
+\v 7 Yahweh's voice causes lightning to flash.
+\q1
+\v 8 His voice causes the desert to shake;
+\q2 he shakes the wilderness of Kadesh.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 He makes Lebanon skip like a calf
+\q  and Sirion like a young ox.
+\q
+\v 7 The voice of Yahweh attacks with flames of fire.
+\q
+\v 8 The voice of Yahweh shakes the wilderness;
+\q Yahweh shakes the wilderness of Kadesh.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:cow|cow, calf, bull]]
+  * [[:te:obe:other:ox|ox, oxen]]
+  * [[:te:obe:other:fire|fire]]
+  * [[:te:obe:other:desert|desert, wilderness]]
+  * [[:te:obe:other:kadesh|Kadesh]]
+
+===== Translation Notes: =====
+
+The psalm writer continues to picture Yahweh's great power.
+
+  * **skip like a calf and Sirion like a young ox**  - The word "skip" means to "jump lightly back and forth"
+  * **Sirion**  - "Sirion" is a snow covered top of a mountain in Lebanon. (See: [[:te:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:029|Psalms Chapter 029 Comprehension Questions]]**
+**[[:te:bible:notes:psa:029:003|<<]] | [[:te:bible:notes:psa:029:009|>>]]**
+
+~~DISCUSSION~~{{tag>check book1}}
+
+~~NOCACHE~~

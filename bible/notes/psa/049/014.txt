@@ -1,0 +1,80 @@
+====== Psalms 049:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 They are certain to die just like sheep,
+\q2 when a shepherd leads them away to be slaughtered. \f + \ft personification, metaphor \f*
+\q1 In the morning the righteous people will rule over them,
+\q1 and then \add those wealthy people will die and\add* their bodies will quickly decay in their graves;
+\q2 they will be where dead people are, far from their homes.
+\q1
+\v 15 But it is certain that God will rescue me so that I am not held fast in the place of the dead;
+\q2 he will take me \add to heaven\add*.
+\qr (Think about that!)
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 They are certain to die just like sheep
+\q2 when a shepherd leads them away to be slaughtered. 
+\q1 In the morning the righteous people will rule over them,
+\q1 and then those wealthy people will die and their bodies will quickly decay in their graves;
+\q2 they will be where dead people are, far from their homes.
+\q1
+\v 15 But it is certain that God will rescue me so that I am not held fast in the place of the dead;
+\q2 he will take me to himself.
+
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 14 They are appointed, like a flock, to go to sheol;
+\q death will be their shepherd;
+\q the upright will have power over them in the morning;
+\q their beauty will be for sheol to consume
+\q so that there be no habitation for it.
+\q
+\v 15 But God will redeem my soul from the power of sheol;
+\q he will receive me. 
+\qs Selah\qs*
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:appoint|appoint]]
+  * [[:te:obe:other:flock]]
+  * [[:te:obe:other:hades|hades, sheol]]
+  * [[:te:obe:other:shepherd|shepherd, to shepherd]]
+  * [[te:obe:kt:upright]]
+  * [[:te:obe:kt:power|power]]
+  * [[:te:obe:other:consume]]
+  * [[:te:obe:kt:redeem]]
+  * [[:te:obe:kt:soul|soul]]
+  * [[:te:obe:kt:receive|receive]]
+===== Translation Notes: =====
+The author continues to describe people who believe their wealth will save them.
+
+  * **like a flock**- People are compared to a flock of sheep because they will follow their shepherd. (See [[:te:ta:vol1:translate:figs_simile]])
+  * **death will be their shepherd** - This phrase refers to death and the person who leads sheep.  This means the choices of the people will only result in their deaths. AT: "death will take them away as a shepherd leads away sheep to be slaughtered" (See: [[:te:ta:vol2:translate:figs_personification]] and [[:te:ta:vol1:translate:figs_metaphor]]) 
+  * **in the morning**  - Night is associated with death so the morning refers to after they die. AT: "after they die" (See: [[:te:ta:vol1:translate:figs_metaphor]])
+  * **their beauty will be for sheol ... there be no habitation for it.** - "their beauty will be consumed in sheol, far away from their homes" or "their bodies will be comsumed in sheol and sheol will become their home"
+  * **beauty** - "form" or "image"
+  * **from the power of sheol** - AT: "and sheol will not have power over me"
+ ====Links:====
+
+  * **[[:te:bible:questions:comprehension:psa:049|Psalms Chapter 049 Comprehension Questions]]**
+**[[:te:bible:notes:psa:049:012|<<]] | [[:te:bible:notes:psa:049:016|>>]]**
+
+~~DISCUSSION~~{{tag>publish text book2}}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== 2 Samuel 05:19-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 19 David asked Yahweh, "Should \add my men\add* and I attack the Philistia army? Will you enable us to defeat them [IDI]?" Yahweh replied, "Yes, attack them, because I will certainly enable your army to defeat them. [IDI]"
+\p
+\v 20 So David \add and his army\add* went to \add where the Philistia army was\add*, and there they defeated them. Then David said, "Yahweh has burst through my enemies like a flood. \f + \ft simile \f*" So that place is called 'Lord of bursting-through.'
+\v 21 The Philistia men left their idols there; so David and his soldiers took them away.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 19 David asked Yahweh, "Should my men and I attack the Philistine army? Will you enable us to defeat them?" Yahweh replied, "Yes, attack them, because I will certainly enable your army to defeat them."
+\p
+\v 20 So David and his army went to where the Philistine army was, and there they defeated them. Then David said, "Yahweh has burst through my enemies like a flood. " So that place is called Baal Perazim.
+\v 21 The Philistine men left their idols there, and David and his soldiers took them away.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 19 Then David asked for help from Yahweh. He said, "Should I attack the Philistines? Will you give victory over them?" Yahweh said to David, "Attack, for I will certainly give you victory over the Philistines."
+\v 20 So David attacked at Baal Perazim, and there he defeated them. He commented, "Yahweh has burst through my enemies before me like a bursting flood of water." So the name of that place became Baal Perazim.
+\v 21 The Philistines left their idols there, and David and his men carried them away.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:idol|idol, idolatrous]]
+  * [[te:obe:other:david]]
+  * [[te:obe:kt:yahweh]]
+
+===== Translation Notes: =====
+
+  * **Baal Perazim**- name of a place (See: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+  * **burst through my enemies before me like a bursting flood of water **  - "Yahweh of Hosts has slain my enemies before me like a river of water flowing over." (See: [[:te:ta:vol1:translate:figs_simile|Simile]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:2sa:05|2 Samuel Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:2sa:05:17|<<]] | [[:te:bible:notes:2sa:05:22|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

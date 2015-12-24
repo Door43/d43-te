@@ -1,0 +1,44 @@
+===== Table of Contents - Process Manual Vol 1 =====
+
+This module answers the question: What is in the process manual volume 1?\\
+==== Process Manual Volume 1 ====
+
+=== 1. Getting Started ====
+   - [[te:ta:vol1:process:process_manual|Introduction]]
+   - [[te:ta:vol1:process:getting_started|Getting Started]]
+   - [[te:ta:vol1:process:setup_team]]
+
+=== 2. Setting Up A Translation Platform ===
+
+  - [[te:ta:vol1:process:platforms|Choosing a translation platforms]]
+    - [[te:ta:vol1:process:setup_door43|Setting up Door43]]  
+    - [[te:ta:vol1:process:setup_tsandroid|Setting up translationStudio - Android]] 
+    - [[te:ta:vol1:process:setup_word|Setting up for a Word Processor]]  
+
+=== 3. Translating ===
+
+  - [[te:ta:vol1:process:pretranslation_training|Training before translation begins]]
+    - [[te:ta:vol1:process:door43_translation|Translating Using Door43]]  
+    - [[te:ta:vol1:process:tsandroid_translation|Translating Using translationStudio]]  
+    - [[te:ta:vol1:process:word_translation|Translating Using a Word Processor]]
+  - [[te:ta:vol1:process:upload_merge|Merging an Upload into Door43]]
+
+=== 4. Checking ===
+
+   - [[te:ta:vol1:process:prechecking_training|Training before checking begins]]
+   - [[te:ta:vol1:process:required_checking|How to Check]]
+
+=== 5. Publishing ===
+
+   - [[te:ta:vol1:process:intro_publishing|Introduction to publishing]]
+   - [[te:ta:vol1:process:publishing_prereqs|Publishing prerequisites]]
+   - [[te:ta:vol1:process:publishing_process|How to Publish]]
+
+=== 6. Distributing ===
+
+   - [[te:ta:vol1:process:intro_share|Introduction to Distribution]]
+   - [[te:ta:vol1:process:share_unpublished|Sharing Unpublished Content]]
+   - [[te:ta:vol1:process:share_published|Sharing Published content]]
+
+
+

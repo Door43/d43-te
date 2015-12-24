@@ -1,0 +1,78 @@
+====== Psalms 143:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, hear me while I pray to you!
+\q2 Because you are righteous
+\q2 and because you faithfully do what you have promised,
+\q2 listen to what I am pleading that you \add do for me\add*.
+\q1
+\v 2 I am one who serves you;
+\q1 do not judge me,
+\q2 because you do not consider anyone to be completely innocent\f + \ft Or: never have done anything that is wrong \f*.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, hear me while I pray to you!
+\q2 Because you are righteous
+\q2 and because you faithfully do what you have promised,
+\q2 listen to what I am pleading for you to do for me.
+\q1
+\v 2 I am one who worships you;
+\q1 do not judge me
+\q2 because you do not consider anyone to be completely innocent.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 143
+\d A psalm of David.
+\p
+\q
+\v 1 Hear my prayer, Yahweh; listen to my pleas.
+\q Because of your faithfulness and righteousness, answer me!
+\q
+\v 2 Do not enter into judgment with your servant,
+\q for in your sight no one is righteous.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:psalm|psalm]]
+  * [[:te:obe:other:david|David]]
+  * [[:te:obe:other:pray|pray, prayer]]
+  * [[:te:obe:kt:yahweh|Yahweh]]
+  * [[:te:obe:other:plead]]
+  * [[:te:obe:kt:faithful|faithful, faithfulness]]
+  * [[:te:obe:kt:righteous|righteous, righteousness]]
+  * [[:te:obe:kt:judge|judge, judgment]]
+  * [[:te:obe:other:servant|servant, slave, slavery]]
+
+===== Translation Notes: =====
+
+See: [[:te:ta:workbench:translate:poetry|Translating Poetry]] and [[:te:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A psalm of David** - See how you translated this in [[:te:bible:notes:psa:003:001|3:1]] 
+  * **answer me** - AT: "please do what I ask you to do" (See: [[te:ta:vol2:translate:figs_metonymy]])
+  * **Do not enter into judgment** - AT: "Please do not judge" or "I beg you not to judge" (See: [[te:ta:vol1:translate:figs_idiom]])
+  * **in your sight no one is righteous** - AT: "you do not think anyone is righteous" (See: [[te:ta:vol2:translate:figs_synecdoche]])
+
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:143|Psalms Chapter 143 Comprehension Questions]]**
+**[[:te:bible:notes:psa:142:006|<<]] | [[:te:bible:notes:psa:143:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book5}}
+
+~~NOCACHE~~

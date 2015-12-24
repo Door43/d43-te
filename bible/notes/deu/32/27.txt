@@ -1,0 +1,66 @@
+====== Deuteronomy 32:27 ======
+
+===== TFT: =====
+
+<usfm>
+\v 27 But \add if I did that\add*, their enemies would wrongly boast
+\q2 that they were the ones who had \add gotten rid of my people\add*;
+\q1 they would say, "We \f + \ft synecdoche \f* are the ones who defeated them;
+\q2 it was not Yahweh who has done all these things."~'
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 27 But if I did that, their enemies would wrongly boast
+\q that they were the ones who had gotten rid of my people;
+\q they would say, "We  are the ones who defeated them;
+\q it was not Yahweh who has done all these things."'
+\b
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 27 Were it not that I feared the provocation of the enemy,
+\q and that their enemies would judge mistakenly,
+\q and that they would say, 'Our hand is exalted,'
+\q I would have done all this.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:fear]]
+  * [[:te:obe:other:adversary]]
+  * [[:te:obe:kt:judge|judge, judgment]]
+  * [[:te:obe:other:hand|hand]]
+  * [[:te:obe:kt:exalt|exalt, exaltation]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+From verse 20-29, Moses quotes Yahweh.
+
+  * **Were it not that I feared the provocation of the enemy - **  AT: "But I feared the provocation of the enemy " (See: [[:te:ta:vol2:translate:figs_litotes]])
+  * **judge mistakenly**  - "misunderstand"
+  * **and that they would say - **  and that the enemy would say
+  * **Our hand is exalted**  - The enemy's "hand" means their strength or power. "Our strength has triumphed" or "Our power has won" (See: [[:te:ta:vol2:translate:figs_synecdoche]])
+
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:25|<<]] | [[:te:bible:notes:deu:32:28|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

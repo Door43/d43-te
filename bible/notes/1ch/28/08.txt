@@ -1,0 +1,57 @@
+====== 1 Chronicles 28:8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 So now, while all you \add people of Israel\add*, all of you who belong to Yahweh, are watching, and while God is listening, I command you \add leaders\add* to carefully obey all the commands of Yahweh our God, in order that you may continue to possess this good land and enable your descendants to inherit it forever.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 So now, while all you people of Israel, all of you who belong to Yahweh, are watching, and while God is listening, I command you leaders to carefully obey all the commands of Yahweh our God, in order that you may continue to possess this good land and enable your descendants to inherit it forever.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 8 Now then, in the sight of all Israel, this assembly for Yahweh, and in the presence of our God, all of you must keep and try to carry out
+all the commandments of Yahweh your God. Do this so that you may possess this good land and leave it as an inheritance to your children
+after you forever.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:assembly]]
+  * [[te:obe:other:possess]]
+  * [[te:obe:kt:inherit]]
+  * [[te:obe:kt:children]]
+
+===== Translation Notes: =====
+
+David  continues speaking to the Israelites.
+
+  * **to your children after you forever**  - to your descendants and their descendants and on and on forever (see: [[:te:ta:vol2:translate:figs_merism]])
+
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:1ch:28|1 Chronicles Chapter 28 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/1ch/28/06|<<]] | [[en/bible/notes/1ch/28/09|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>draft}}
+
+~~NOCACHE~~

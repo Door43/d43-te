@@ -1,0 +1,64 @@
+====== Lamentations 05:17-18 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 17 We \f + \ft synecdoche \f* are tired and discouraged [IDI],
+\q2 and we cannot see well because our eyes are \add full of tears\add*.
+\q1
+\v 18 Jerusalem is completely deserted,
+\q2 and jackals\f + \ft Or: wolves \f* prowl around it.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 17 We  are tired and discouraged,
+\q2 and we cannot see well because our eyes are full of tears.
+\q1
+\v 18 Jerusalem has no one living any more in it,
+\q2 and jackals prowl around in it.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 17 Our hearts have become sick,
+\q and our eyes have grown dim,
+\q
+\v 18 because jackals wander upon the Mount Zion, which is deserted.
+\b
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:heart]]
+  * [[:te:obe:other:zion]]
+
+===== Translation Notes: =====
+
+
+    * **Our hearts have become sick**  - This means that we feel deeply ill. (See: Synecdoche)
+    * **our eyes have grown dim**  - This means that because of our deep sadness we cry and do not see well. (See: Synecdoche)
+    * **jackals**  - These are small, wild, vicious dogs; their presence on Zion symbolizes that people are no longer living there.
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+    * **bold words**  - explanation
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:lam:05|Lamentations Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:lam:05:15|<<]] | [[:te:bible:notes:lam:05:19|>>]]**
+
+~~DISCUSSION~~{{tag>Check}}
+
+~~NOCACHE~~

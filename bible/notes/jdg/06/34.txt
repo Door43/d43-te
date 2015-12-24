@@ -1,0 +1,52 @@
+====== Judges 06:34-35 ======
+
+===== TFT: =====
+
+<usfm>
+\v 34 Then Yahweh's Spirit took control of Gideon. He blew a ram's horn to summon the men to prepare to fight. So the men of the clan of Abiezer came to him.
+\v 35 He also sent messengers throughout the tribes descended from Manasseh, Asher, Zebulun, and Naphtali \add to tell their soldiers to come\add*, and all of them came.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 34 Then Yahweh's Spirit took control of Gideon. He blew a ram's horn to summon the men to prepare to fight. So the men of the clan of Abiezer came to him.
+\v 35 He also sent messengers throughout the tribes descended from Manasseh, Asher, Zebulun, and Naphtali to tell their soldiers to come, and all of them came.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 34 But the Spirit of Yahweh covered Gideon in order to help him. Gideon blew a trumpet, calling out the clan of Abiezer, so they might follow him.
+\v 35 He sent messengers all throughout Manasseh, and they, too, were called out to follow him. He also sent messengers to Asher, Zebulun, and Naphtali, and they went up to meet him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:spirit]]
+  * [[:te:obe:kt:Yahweh]]
+  * [[:te:obe:other:Gideon]]
+  * [[:te:obe:other:trumpet]]
+  * [[:te:obe:other:clan]]
+  * [[:te:obe:other:send]]
+  * [[:te:obe:other:messenger]]
+  * [[:te:obe:other:manasseh]]
+  * [[:te:obe:other:asher]]
+  * [[:te:obe:other:zebulun]]
+  * [[:te:obe:other:naphtali]]
+
+===== Translation Notes: =====
+
+  * **clan of Abiezer** - "Abiezrites"  See how you translated this in [[ te:bible:notes:jdg:06:11|Judges 6:11]].
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:06:33|<<]] | [[:te:bible:notes:jdg:06:36|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

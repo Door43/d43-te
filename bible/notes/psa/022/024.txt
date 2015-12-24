@@ -1,0 +1,72 @@
+====== Psalms 022:24-25 ======
+
+===== TFT: =====
+
+<usfm>
+\v 24 He does not despise or ignore those who are suffering;
+\q2 he does not hide his face\f + \ft Or: himself \f* from them.
+\q1 He has listened to them when they cried out to him for help.
+\b
+\q1
+\v 25 Yahweh, in the great gathering \add of your people\add*, I will praise you for what you have done.
+\q2 In the presence of those who have an awesome respect for you, I will offer \add the sacrifices\add* that I promised.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 24 He does not despise or ignore those who are suffering;
+\q2 he does not hide his face from them.
+\q1 He has listened to them when they cried out to him for help.
+\b
+\q1
+\v 25 Yahweh, in the great gathering of your people, I will praise you for what you have done.
+\q2 In the presence of those who have an awesome respect for you, I will offer the sacrifices that I promised.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 24 For he has not despised or abhorred the suffering of the afflicted one;
+\q Yahweh has not hidden his face from him;
+\q when the afflicted one cried to him, he heard.
+\q
+\v 25 My praise comes from you in the great assembly;
+\q I will fulfill my vows before those who fear him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:suffer|suffer, suffering]]
+  * [[:te:obe:kt:afflict|afflict, affliction]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:kt:face|face]]
+  * [[:te:obe:other:cry]]
+  * [[:te:obe:other:praise]]
+  * [[:te:obe:kt:assembly]]
+  * [[:te:obe:kt:fulfill|fulfill]]
+  * [[:te:obe:kt:vow|vow]]
+  * [[:te:obe:kt:fear]]
+===== Translation Notes: =====
+
+  * **he has not despised or abhorred** - AT: "he has admired and cherished" (See: [[:te:ta:vol2:translate:figs_litotes]])
+  * **despised or abhorred** - These two words mean basically the same thing and are used together to emphasize that God has not forgotten David. (See: [[:te:ta:vol2:translate:figs_doublet]])
+  * **despised** - "detested" AT: "hated"
+  * **abhorred** - "loathed" or "scorned"
+  * **the afflicted one** - "an afflicted person" or "a poor person" or "the unfortunate"
+  * **has not hidden his face** - AT: "has not turned his attention away" or "has not turned away" (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **he heard** - "he listened" AT: "he answered" or "he helped"
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:022|Psalms Chapter 022 Comprehension Questions]]**
+**[[:te:bible:notes:psa:022:022|<<]] | [[:te:bible:notes:psa:022:026|>>]]**
+
+~~DISCUSSION~~{{tag>text bramvdh book1}}
+
+~~NOCACHE~~

@@ -1,0 +1,46 @@
+====== Judges 04:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 On that day God enabled the Israelites to defeat \add the army of\add* Jabin, the king of the people of Canaan.
+\v 24 From that time, the Israelite people continued to become stronger, and \add the army of\add* King Jabin continued to become weaker. Finally the Israelites were able to completely subdue the people ruled by the king of Canaan.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 On that day God enabled the Israelites to defeat the army of Jabin, one of the kings of the Canaanites.
+\v 24 The Israelites became stronger and stronger, and they destroyed Jabin and his army.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 23 So on that day God defeated Jabin the king of Canaan before the people of Israel.
+\v 24 The might of the people of Israel grew stronger and stronger against Jabin the king of Canaan, until they destroyed him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:god]]
+  * [[:te:obe:other:king]]
+  * [[:te:obe:other:Canaan]]
+  * [[:te:obe:other:israel]]
+  * [[:te:obe:other:mighty]]
+
+===== Translation Notes: =====
+
+  * **Jabin**  - See how you translated this in [[:te:bible:notes:jdg:04:01|4:2]].
+  * **before the people of Israel** - If something is before you it is in front of you where you can see.  To be able to see something is associated with being able to understand it. AT: "in a way so the people of Israel could understand God had enabled the victory" (See: [[:te:ta:vol1:translate:figs_idiom]])
+  * **The might of the people** - The word "might" refers to the military power of Israel. (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **stronger and stronger** - The word "stronger" is repeated to express the people of Israel's strength developed over time. (See: [[:te:ta:vol2:translate:figs_doublet]])
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:04|Judges Chapter 04 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:04:21|<<]] | [[:te:bible:notes:jdg:05:01|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

@@ -1,0 +1,56 @@
+====== Song of Solomon 05:6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 I opened \add the door\add* for the man who loves me,
+\q2 but he had left.
+\q1 He had turned away and was gone!
+\q2 I was very disappointed [IDI];
+\q1 I searched for him, but I could not find him.
+\q2 I called him, but he did not answer.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 I opened the door for the man who loves me,
+\q2 but he left.
+\q1 He had turned away and was gone!
+\q2 I was very disappointed.
+\q1 I searched for him, but I could not find him;
+\q2 I called him, but he did not answer.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 6 I opened the door for my beloved,
+\q but my beloved had turned and gone.
+\q My heart sank, I became despondant.
+\q I looked for him, but I did not find him;
+\q I called him, but he did not answer me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:heart|heart]]
+  * [[:te:obe:kt:call|call, calling]]
+
+===== Translation Notes: =====
+
+  * **My heart sank **  - This literally means her heart fell or dropped to the bottom, as in water. However, this is a picture of her great disappointment. The Hebrew text says my soul failed me. (See: Metaphor)
+  * **I became despondant **  . - AT: "I was very sad and without hope"
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:sng:05|Song of Solomon Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:sng:05:05|<<]] | [[:te:bible:notes:sng:05:07|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

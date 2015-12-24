@@ -1,0 +1,71 @@
+====== Jeremiah 06:23-24 ======
+
+===== TFT: =====
+
+<usfm>
+\v 23 They have bows \add and arrows\add* and spears;
+\q2 they are very cruel, and do not act mercifully to anyone.
+\q1 As they ride along on their horses,
+\q2 the horses' feet sound like the roaring of the ocean \add waves\add*;
+\q1 they are riding in battle formation
+\q2 to attack you people of Jerusalem."
+\b
+\q1
+\v 24 \add The people of Jerusalem say\add*,
+\q1 "We have heard reports about the enemy;
+\q2 so we are very frightened, with the result that we are weak.
+\q1 We are very afraid, and worried,
+\q2 like \f + \ft simile \f* women who are about to give birth to babies.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 23 They have bows and arrows and spears; they are very cruel, and do not act mercifully to anyone.
+\q As they ride along on their horses, the horses' feet sound like the roaring of the ocean waves;
+\q They are riding in battle formation to attack you people of Jerusalem."
+\q
+\v 24 The people of Jerusalem say, "We have heard reports about the enemy; so we are very frightened, with the result that we are weak.
+\q We are very afraid, and worried, like women who are about to give birth to babies.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 23 They will pick up bows and spears. They are cruel and have no compassion. Their sound is like the sea roar, 
+\q and they are riding on horses in formation as fighting men, daughter of Zion.
+\q
+\v 24 We have heard the news about them. Our hands fall limp in distress. Anguish seizes us as a woman bearing a child;
+\q
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:bowweapon|bow and arrow]]
+  * [[:te:obe:other:spear|spear]]
+  * [[:te:obe:kt:compassion|compassion, compassionate]]
+  * [[:te:obe:other:horse|horse]]
+  * [[:te:obe:other:zion|Zion, Mount Zion]]
+  * [[:te:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+  * **Their sound is like the sea roar**  - AT: "The approaching enemy sounds like the roar of crashing waves." (See: [[:te:ta:vol1:translate:figs_simile|Simile]])
+  * Anguish seizes us as a woman bearing a child - AT: "We have great fear for what is to come." (See: [[:te:ta:vol1:translate:figs_simile|Simile]])
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+  * **bold words**  - explanation
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jer:06|Jeremiah Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jer:06:20|<<]] | [[:te:bible:notes:jer:06:25|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

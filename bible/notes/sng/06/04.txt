@@ -1,0 +1,50 @@
+====== Song of Solomon 06:4 ======
+
+===== TFT: =====
+
+<usfm>
+\v 4 My darling, you are beautiful,
+\q2 like \f + \ft simile \f* Tirzah \add the capital city of Israel\add* and Jerusalem \add the capital city of Judah are beautiful\add*;
+\q2 you are as stimulating\f + \ft Or: exciting \f* \f + \ft metaphor \f* as a \add group\f + \ft Or: battalion \f* of\add* troops holding up their banners.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 4 [PART FIVE] [The woman's lover speaking to her] My darling, you are beautiful,
+\q2 as Tirzah the capital city of Israel and Jerusalem the capital city of Judah are beautiful;
+\q2 you are an endless mystery to me.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 4 [PART FIVE] [The woman's lover speaking to her] You are as beautiful as Tirzah, my love,
+\q as lovely as Jerusalem,
+\q and completely fascinating to me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:tirzah|Tirzah]]
+  * [[:te:obe:kt:love|love]]
+  * [[:te:obe:other:jerusalem|Jerusalem]]
+
+===== Translation Notes: =====
+
+  * **You are as beautiful as Tirzah, my love, as lovely as Jerusalem **- (See: Simile)
+  * **and completely fascinating to me **- This is supposed to be a metaphor comparing her to an awe-inspiring army with banners.   AT: "as awesome as an army with banners" (See: Metaphor).
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:sng:06|Song of Solomon Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:sng:06:02|<<]] | [[:te:bible:notes:sng:06:05|>>]]**
+
+~~DISCUSSION~~{{tag>draft}}
+
+~~NOCACHE~~

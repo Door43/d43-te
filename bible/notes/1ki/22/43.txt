@@ -1,0 +1,55 @@
+====== 1 Kings 22:43-44 ======
+
+===== TFT: =====
+
+<usfm>
+\v 43 Jehoshaphat was a good king, just like his father Asa had been. He did things that pleased Yahweh. But while he was king, he did not remove all the pagan altars \add that the people had built\add* on the hilltops. So the people continued to offer sacrifices \add to idols\add* on those altars and burned incense there.
+\v 44 Jehoshaphat also made a peace \add agreement\add* with the king of Israel.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 43 Jehoshaphat was a good king, just like his father Asa had been. He did things that pleased Yahweh. But while he was king, he did not remove all the pagan altars at the shrines. So the people continued to offer sacrifices to idols on those altars and burned incense there.
+\v 44 Jehoshaphat also made a peace treaty with the king of Israel.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 43 He walked in the ways of Asa, his father; he did not turn away from them; he did what was right in the eyes of Yahweh. However, the shrines were still not taken away. The people were still sacrificing and burning incense at the shrines.
+\v 44 Jehoshaphat made peace with the king of Israel.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:walk|walk]]
+  * [[:te:obe:other:father|father, forefather]]
+  * [[:te:obe:kt:turn|turn, turn away]]
+  * [[:te:obe:kt:yahweh|Yahweh]]
+  * [[:te:obe:other:shrine|shrine]]
+  * [[:te:obe:kt:peopleofgod|people, people of God]]
+  * [[:te:obe:other:sacrifice|sacrifice, offering]]
+  * [[:te:obe:other:incense|incense]]
+  * [[:te:obe:other:peace|peace, peaceful]]
+  * [[:te:obe:other:king|king]]
+  * [[:te:obe:other:kingdomofisrael|kingdom of Israel]]
+
+===== Translation Notes: =====
+
+  * walked in the ways of Asa - AT: "He followed the example of Asa." (See: [[:walked in the ways of Asa|Metonymy]])
+  * in the eyes of Yahweh - AT: "In the judgment of Yahweh." (See: [[:te:ta:vol2:translate:figs_metonymy|Metonymy]])
+  *
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:1ki:22|1 Kings Chapter 22 Comprehension Questions]]**
+**[[:te:bible:notes:1ki:22:41|<<]] | [[:te:bible:notes:1ki:22:45|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

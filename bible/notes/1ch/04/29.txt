@@ -1,0 +1,45 @@
+====== 1 Chronicles 04:29-31 ======
+
+===== TFT: =====
+
+<usfm>
+\v 29 Bilhah, Ezem, Tolad,
+\v 30 Bethuel, Hormah, Ziklag,
+\v 31 Beth-Marcaboth, Hazar-Susim, Beth-Biri, and Shaaraim. They lived in those places until David became king.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 29 Bilhah, Ezem, Tolad,
+\v 30 Bethuel, Hormah, Ziklag,
+\v 31 Beth Marcaboth, Hazar Susim, Beth Biri, and Shaaraim. They lived in those places until David became king.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 29 They also live at Bilhah, Ezem, Tolad,
+\v 30 Bethuel, Hormah, Ziklag,
+\v 31  Beth Marcaboth,  Hazar Susim, Beth Biri, and Shaaraim. These were their cities until the reign of David.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:bethuel]]
+  * [[:te:obe:other:reign]]
+  * [[:te:obe:other:david]]
+
+===== Translation Notes: =====
+
+  * **Bilhah ... Shaaraim**  - These are names of cities in Judah. (See: [[:te:ta:vol1:translate:translate_names]])
+  * **They, Their**  - The words "they" and "their" refer to the sons and daughters of Shimei.
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:1ch:04|1 Chronicles Chapter 04 Comprehension Questions]]**
+**[[:te:bible:notes:1ch:04:27|<<]] | [[:te:bible:notes:1ch:04:32|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

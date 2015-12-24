@@ -1,0 +1,59 @@
+====== Judges 06:14-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 14 Then Yahweh turned toward him and said, "I will give you strength to enable you to rescue the Israelites from the people of Midian. I am sending you \add to do that\add*!"
+\p
+\v 15 Gideon replied, "But Yahweh, how can I rescue the Israelites? My clan is the least significant in the whole tribe descended from Manasseh, and I am the least significant person in my whole family!"
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 14 Then Yahweh turned toward him and said, "I will give you strength to enable you to rescue the Israelites from the people of Midian. I am sending you to do that!"
+\p
+\v 15 Gideon replied, "But Lord, how can I rescue the Israelites? My clan is the least significant in the whole tribe descended from Manasseh, and I am the least significant person in my whole family!"
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 14 Yahweh looked at him and said, “Go in this strength you have. Deliver Israel from the power of the Midianites. Have I not sent you?”
+\v 15 Gideon said to him, “Please, Lord, how can I deliver Israel? See, my family is the weakest in Manasseh, and I am the least important in my father’s house.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:Yahweh]]
+  * [[:te:obe:other:strength]]
+  * [[:te:obe:kt:deliverer]]
+  * [[:te:obe:other:israel]]
+  * [[:te:obe:kt:power]]
+  * [[:te:obe:other:Midian]]
+  * [[te:obe:other:send]]
+  * [[:te:obe:other:Gideon]]
+  * [[:te:obe:kt:lordgod]]
+  * [[:te:obe:other:family]]
+  * [[:te:obe:other:manasseh]]
+  * [[:te:obe:other:father]]
+  * [[:te:obe:other:house]]
+
+===== Translation Notes: =====
+
+  * **Yahweh looked at him** - "Yahweh looked at Gideon"
+  * **Have I not sent you?** - Yahweh uses this question to emphasize that he has sent Gideon to defeat the Midianites and will cause Gideon to be victorious. (See: [[te:ta:vol1:translate:figs_rquestion]]) 
+  * **Please, Lord** - "Please understand my concerns, Lord"  Gideon now realizes that he is speaking with Yahweh so the word "Lord" has a different meaning.
+  * **See** - To understand something is often described as being able to see it. AT: "Understand"
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:06:13|<<]] | [[:te:bible:notes:jdg:06:16|>>]]**
+
+~~DISCUSSION~~{{tag>review}}
+
+~~NOCACHE~~

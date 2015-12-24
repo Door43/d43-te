@@ -1,0 +1,73 @@
+====== Psalms 029:3-5 ======
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh's voice is heard above the oceans;
+\q2 the glorious God thunders.
+\q1 His voice thunders over the huge oceans \f + \ft doublet \f*.
+\q1
+\v 4 His voice is powerful and majestic.
+\q1
+\v 5 Yahweh's voice breaks great cedar trees,
+\q2 the cedars that grow in Lebanon.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh's voice is heard above the oceans;
+\q2 the glorious God thunders.
+\q1 He appears over the huge oceans.
+\q1
+\v 4 His voice is powerful and majestic.
+\q1
+\v 5 Yahweh's voice breaks great cedar trees,
+\q2 the cedars that grow in Lebanon.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 The voice of Yahweh is heard over the waters;
+\q the God of glory thunders,
+\q Yahweh thunders over many waters.
+\q
+\v 4 The voice of Yahweh is powerful;
+\q the voice of Yahweh is majestic.
+\q
+\v 5 The voice of Yahweh breaks the cedars;
+\q  Yahweh breaks in pieces the cedars of Lebanon.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:voice|voice]]
+  * [[:te:obe:other:water|water, waters]]
+  * [[:te:obe:kt:god|God]]
+  * [[:te:obe:kt:power|power]]
+  * [[:te:obe:kt:majesty|majesty]]
+  * [[:te:obe:other:cedar|cedar]]
+  * [[:te:obe:other:lebanon|Lebanon]]
+
+===== Translation Notes: =====
+
+All of these verses give pictures of Yahweh's great power.
+
+  * **is heard over the waters** - "is heard above the waters"  (See: [[:te:ta:vol2:translate:figs_personification]])
+  * **over the waters**  - "louder than the waters"
+  * **over many waters**  - "over the large bodies of water"
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:029|Psalms Chapter 029 Comprehension Questions]]**
+**[[:te:bible:notes:psa:029:001|<<]] | [[:te:bible:notes:psa:029:006|>>]]**
+
+~~DISCUSSION~~{{tag>check book1}}
+
+~~NOCACHE~~

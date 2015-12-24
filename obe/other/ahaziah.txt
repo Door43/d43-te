@@ -2,20 +2,19 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Ahaziah was the name of two kings: one ruled over the kingdom of Israel, the other ruled over the kingdom of Judah.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * Judah's King Ahaziah was the son of King Jehoram. He reigned for one year (841 BC) and then was killed by Jehu. Ahaziah's young son Joash eventually took his place as king.
+  * Israel's King Ahaziah was the son of King Ahab. He reigned for two years (850-49 BC). He died from injuries suffered in a fall at his palace and his brother Joram became king.
 
-(See also: other)
+(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:te:obe:other:jehu]], [[:te:obe:other:ahab]],[[:te:obe:other:jeroboam]], [[:te:obe:other:joash]])
 
 ===== Bible References: =====
 
-{{topic>Ahaziah&nocomments}}
-
-~~DISCUSSION~~
+{{topic>Ahaziah&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create 1Ki22 ktlink}}
+{{tag>publish}}

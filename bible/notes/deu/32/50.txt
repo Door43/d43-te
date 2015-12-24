@@ -1,0 +1,57 @@
+====== Deuteronomy 32:50-52 ======
+
+===== TFT: =====
+
+<usfm>
+\v 50 You will die on that mountain \f + \ft euphemism, doublet \f*, like your \add older\add* brother Aaron died on Hor Mountain.
+\v 51 You will die because both of you disobeyed me in the presence of the Israelite people, when you all were at Meribah Springs near Kadesh \add town\add* in the Zin Desert. You did not honor and respect me in the presence of the Israelite people in the way that I deserve because I am God.
+\v 52 \add When you are on that mountain where I told you to go\add*, you will see in the distance in front of you the land that I am about to give to the Israelite people, but you will not enter it."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 50 You will die on that mountain, like your older brother Aaron died on Mount Hor.
+\v 51 You will die because both of you disobeyed me in the presence of the Israelite people, when you all were at the springs of Meribah near Kadesh in the wilderness of Zin. You did not honor and respect me in the presence of the Israelite people in the way that I deserve because I am God.
+\v 52 When you are on that mountain where I told you to go, you will see in the distance in front of you the land that I am about to give to the Israelite people, but you will not enter it."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 50 You will die on the mountain that you go up and be gathered to your people, as Aaron your fellow Israelite died on Mount Hor and was gathered to his people.
+\v 51 This will happen because you were unfaithful to me among the people of Israel at the waters of Meribah in Kadesh, in the wilderness of Zin; because you did not treat me with honor and respect among the people of Israel.
+\v 52 For you will see the land before you, but you will not go there, into the land that I am giving to the people of Israel.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:death|death, die, dead]]
+  * [[:te:obe:other:peoplegroup]]
+  * [[:te:obe:other:aaron|Aaron]]
+  * [[:te:obe:other:israel]]
+  * [[:te:obe:kt:unfaithful|unfaithful]]
+  * [[:te:obe:other:water|water, waters]]
+  * [[:te:obe:other:kadesh|Kadesh]]
+  * [[:te:obe:other:desert|desert, wilderness]]
+  * [[:te:obe:kt:holy|holy, holiness]]
+  * [[:te:obe:other:honor]]
+
+===== Translation Notes: =====
+
+Yahweh finishes speaking to Moses.
+
+  * **You will die on the mountain **- Yahweh is telling Moses that Moses would die on top of the mountain, after he had seen the Promised Land.
+  * **be gathered to your people**  - AT: "join your ancestors" This means that Moses would be associated in death and joined to Abraham, Isaac, and Jacob. It does not mean he would be buried with his ancestors, as his ancestors had not been buried in Mount Abarim.
+  * **Mount Hor** - (See: [[:te:ta:vol1:translate:translate_names]])
+  * **Meribah**  - A place in the desert where Moses disobeyed God by hitting a rock trying to get water from it. (See: Translate Names ) See how you translated in [[te:bible:notes:num:20:10|Numbers 20:10-13]].
+  * **Zin**  - (See: [[:te:ta:vol1:translate:translate_names]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:48|<<]] | [[:te:bible:notes:deu:33:01|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

@@ -1,0 +1,55 @@
+====== Numbers 07:15-17 ======
+
+
+===== TFT: =====
+
+<usfm>
+
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 15-17 a young bull, a ram, and a one year old male lamb, to be sacrifices completely burned on the altar,
+\li a goat to be sacrificed to remove people's guilt for their sins,
+\li and two bulls, five rams, five male goats, and five male lambs that were one year old, to be sacrifices to restore the people's fellowship with Yahweh.
+
+
+\pi
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 15 He gave as a burnt offering one young bull, one ram, and one male lamb a year old.
+\v 16 He gave one male goat as a sin offering.
+\v 17 He gave two oxen, five rams, five male goats, and five male lambs that were one year old, as the sacrifice for a fellowship offering. This was the gift of Nahshon son of Amminadab.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:burntoffering]]
+  * [[:te:obe:other:cow]]
+  * [[:te:obe:other:sheep]]
+  * [[:te:obe:kt:lamb]]
+  * [[te:obe:other:biblicaltimeyear]]
+  * [[:te:obe:other:goat]]
+  * [[:te:obe:other:sinoffering]]
+  * [[:te:obe:other:fellowshipoffering]]
+  * [[:te:obe:kt:gift]]
+
+===== Translation Notes: =====
+
+There are no translation notes for this chunk.
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:num:07|Numbers Chapter 07 Comprehension Questions]]**
+**[[:te:bible:notes:num:07:12|<<]] | [[:te:bible:notes:num:07:18|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

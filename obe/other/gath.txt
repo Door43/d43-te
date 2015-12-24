@@ -2,14 +2,16 @@
 
 ===== Facts: =====
 
-Gath is one of the five major cities of the Old Testament Philistines.
+Gath was one of the five major cities of the Philistines. It was located north of Ekron and east of Ashdod and Ashkelon.
 
-  * The Philistine champion Goliath was said to be from Gath.
-  * When King David was running from Saul he fled to Gath and spent some time there.
+  * The Philistine champion, Goliath, was from city of Gath.
+  * During the time of Samuel, the Philistines stole the ark of the covenant from Israel and took it to their pagan temple at Ashdod then to Gath. But God punished the people of those cities with disease, so they sent it back to Israel again.
+  * When David was escaping from King Saul, he fled to Gath and lived there for awhile with his two wives.
+
 
 (Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: other)
+(See also: [[:te:obe:other:philistines]], [[:te:obe:other:gaza]], [[:te:obe:other:ashkelon]], [[:te:obe:other:ashdod]], [[:te:obe:other:goliath]])
 
 ===== Bible References: =====
 
@@ -17,4 +19,4 @@ Gath is one of the five major cities of the Old Testament Philistines.
 
 ~~NOCACHE~~
 
-{{tag>draft Psa056 ktlink}}
+{{tag>publish}}

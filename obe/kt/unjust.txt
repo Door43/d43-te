@@ -1,22 +1,18 @@
-====== unrighteous, unrighteousness ======
+====== unjust, unjustly, injustice ======
 
 ===== Definition: =====
 
-The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness" refers to sin or the condition of being sinful.
+To be unjust is to treat others unfairly or in a harmful manner.
 
-  * It especially refers to living in a way that disobeys God's teachings and commands.
-  * Unrighteous people are immoral in their thoughts and actions.
-  * Sometimes "unrighteous" refers specifically to people who do not believe in Jesus.
+  * Injustice often involves prejudice, partiality or inequity.
+  * Treating someone unjustly disregards their basic human rights.
 
 ===== Translation Suggestions: =====
 
-  * This term could simply be translated as "not righteous."
-  * Depending on the context, other ways to translate this could include, "wicked" or "immoral" or "people who rebel against God" or "sinful."
-  * The phrase "the unrighteous" could be translated as "unrighteous people."
-  * The term "unrighteousness" could be translated as "sin" or "evil thoughts and actions."
-  * If possible, it is best to translate this in a way that shows its relationship to "righteous, righteousness."
+  * bullet
+  * bullet
 
-(See also: [[:te:obe:kt:righteous]], [[:te:obe:kt:unlawful]], [[:te:obe:kt:sin]])
+(See also: just, unrighteous)
 
 ===== Bible References: =====
 
@@ -24,4 +20,4 @@ The term "unrighteous" means to be sinful and morally corrupt. "Unrighteousness"
 
 ~~NOCACHE~~
 
-{{tag>publish}}
+{{tag>review ktlink}}

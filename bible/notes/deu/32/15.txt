@@ -1,0 +1,76 @@
+====== Deuteronomy 32:15-16 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 The Israelite people became rich and prosperous,
+\q2 but then they rebelled against God;
+\q1 they abandoned him, the one who created them,
+\q2 the one who powerfully saves them.
+\q1
+\v 16 He abandoned them because they started to worship other\f + \ft Or: strange \f* gods.
+\q1 Because of their worshiping disgusting idols,
+\q2 he became angry.
+\q
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 The Israelite people became rich and prosperous,
+\q but then they rebelled against God;
+\q they abandoned him, the one who created them,
+\q the one who powerfully saves them.
+\q
+\v 16 He abandoned them because they started to worship other gods.
+\q Because of their worshiping disgusting idols,
+\q he became angry.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 15 But Jeshurun grew fat and kicked,
+\q filled with fat, stout, and sleek.
+\q He abandoned the God who made him,
+\q and he rejected the Rock of his salvation.
+\q
+\v 16 They made Yahweh jealous by their strange gods;
+\q and angered him with their detestable idols.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:reject|reject, push away]]
+  * [[:te:obe:kt:god]]
+  * [[:te:obe:kt:salvation|salvation]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:kt:jealous|jealous, jealousy]]
+  * [[:te:obe:kt:falsegod]]
+  * [[:te:obe:other:angry|angry, anger]]
+  * [[:te:obe:other:idol|idol, idolatrous]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+  * **Jeshuran**  - This also refers to the people of Israel. (See: [[:te:ta:vol1:translate:translate_names]]) This term comes from a word that means righteous.
+  * **grew fat and kicked - ** Moses uses a metaphor to compare the people of Israel to an animal like an ox, that was well cared for, but instead of becoming gentle and righteous, turned away from Yahweh. (See: [[:te:ta:vol1:translate:figs_metaphor]]) AT: "became fat and rebelled"
+  * **filled with fat, stout and sleek - **  Moses uses words with similar meaning to emphasize his idea. AT: "heavy, plump, and stuffed"
+  * **Rock of his salvation**  - Moses is saying that Yahweh is as strong and solid as a rock (See:[[:te:ta:vol1:translate:figs_metaphor]])
+  * **made Yahweh jealous **- Moses compares the relationship of Yahweh and the people of Israel to that of a married couple. See [[te:bible:notes:isa:54:05|Isaiah 54:5]]
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:14|<<]] | [[:te:bible:notes:deu:32:17|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

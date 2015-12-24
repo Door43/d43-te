@@ -1,0 +1,72 @@
+====== Psalms 033:20-21 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 20 We trust that Yahweh will help us;
+\q2 he protects us like a shield protects a soldier \f + \ft metaphor \f*.
+\q1
+\v 21 We rejoice because of what he \add has done for us\add*;
+\q2 we trust in him because he \f + \ft metonymy \f* is holy.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 20 We trust Yahweh to help us;
+\q2 he protects us as a shield protects a soldier.
+\q1
+\v 21 We rejoice because of what he has done for us;
+\q2 we trust in him because he is holy.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 20 We wait for Yahweh;
+\q he is our help and our shield.
+\q
+\v 21 Our hearts rejoice in him,
+\q for we trust in his holy name.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:shield]]
+  * [[:te:obe:other:heart]]
+  * [[:te:obe:other:rejoice]]
+  * [[:te:obe:kt:trust]]
+  * [[:te:obe:kt:holy]]
+  * [[:te:obe:kt:name]]
+ 
+
+===== Translation Notes: =====
+
+
+    * **he is our help and our shield**  - AT: "he protects us like a shield protects a soldier" (UDB) (See: Metaphor) 
+    * **we trust in his holy name**  - AT: "we trust in him because he is holy" (UDB) or, "we trust God because everything about him speaks to our confidence"  (See: Metonymy)
+
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:psa:033|Psalms Chapter 033 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/psa/033/018|<<]] | [[en/bible/notes/psa/033/022|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check book1}}
+
+~~NOCACHE~~

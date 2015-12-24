@@ -1,0 +1,4 @@
+===== translationQuestions =====
+
+[[te:bible:questions:comprehension:home|Comprehension Questions]]
+

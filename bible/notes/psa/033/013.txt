@@ -1,0 +1,62 @@
+====== Psalms 033:13-15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 13 Yahweh looks down from heaven and sees all us people.
+\q1
+\v 14 From where he rules \f + \ft metonymy \f*, he looks down on all the people who live on the earth.
+\q1
+\v 15 He formed our inner beings,
+\q2 and he sees everything that we do.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 13 Yahweh looks down from heaven and sees all people.
+\q1
+\v 14 From where he rules, he looks down on all the people who live on the earth.
+\q1
+\v 15 He formed our inner beings,
+\q2 and he sees everything that we do.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 13 Yahweh looks from heaven;
+\q he sees all the people.
+\q
+\v 14 From the place where he lives, 
+\q he looks down on all who live on the earth.
+\q
+\v 15 He who shapes the hearts of them all
+\q observes all their deeds.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:heaven|heaven, sky, heavens, heavenly]]
+  * [[:te:obe:kt:life|life, live, living, alive]]
+  * [[:te:obe:other:earth]]
+  * [[:te:obe:kt:works|works, deeds, work]]
+
+===== Translation Notes: =====
+
+  * **Yahweh looks from heaven **- AT: "Like a king, Yahweh looks down from his throne" (See: Metonymy)
+  * **shapes the hearts **- AT: "formed our inner beings" (UDB) (See: Idiom)
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:033|Psalms Chapter 033 Comprehension Questions]]**
+**[[:te:bible:notes:psa:033:010|<<]] | [[:te:bible:notes:psa:033:016|>>]]**
+
+~~DISCUSSION~~{{tag>check book1}}
+
+~~NOCACHE~~

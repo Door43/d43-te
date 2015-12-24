@@ -1,0 +1,71 @@
+====== Psalms 019:9-10 ======
+
+===== TFT: =====
+
+<usfm>
+\v 9 It is good for people to revere Yahweh;
+\q2 that is something that they will do forever.
+\q1 What Yahweh has decided is fair,
+\q2 and it is always right.
+\q1
+\v 10 The things that God has decided are more valuable than gold,
+\q2 even the finest\f + \ft Or: purest \f* gold.
+\q1 They are sweeter than honey
+\q2 that drips from honeycombs.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 9 It is good for people to revere Yahweh;
+\q2 that is something that they will do forever.
+\q1 What Yahweh has decreed is fair,
+\q2 and it is always right.
+\q1
+\v 10 The things that God has decided are more valuable than gold,
+\q2 even the finest gold.
+\q1 They are sweeter than honey
+\q2 that drips from honeycombs.
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 9 The fear of Yahweh is pure, enduring forever;
+\q the righteous decrees of Yahweh are true and altogether right!
+\q
+\v 10 They are of greater value than gold, even more than much fine gold;
+\q they are sweeter than honey and the dripping honey from the honeycomb.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:fear|fear, afraid, fear of God, fear of Yahweh]]
+  * [[:te:obe:kt:purify]]
+  * [[:te:obe:kt:forever|forever]]
+  * [[:te:obe:kt:righteous|righteous, righteousness]]
+  * [[:te:obe:other:decree|decree]]
+  * [[:te:obe:kt:true|true, truth]]
+  * [[:te:obe:other:gold|gold]]
+  * [[:te:obe:other:honey]]
+===== Translation Notes: =====
+
+  * **righteous decrees** - See how you translated this in [[:te:bible:notes:psa:018:022|18:22]].
+  * **altogether right** - "completely right"
+  * **They are of greater value than gold ... they are sweeter than honey** - Yahweh's decrees are spoken of as if they can be bought and tasted. AT: "If you could buy them, they would be of greater value than gold ... if you could taste them, they would be sweeter than honey" ([[:te:ta:vol1:translate:figs_metaphor]])
+  * **even more than much fine gold** - AT: "even more valuable than a lot of fine gold"
+  * **fine gold** - "pure gold" or "expensive gold"
+  
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:019|Psalms Chapter 019 Comprehension Questions]]**
+**[[:te:bible:notes:psa:019:007|<<]] | [[:te:bible:notes:psa:019:011|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

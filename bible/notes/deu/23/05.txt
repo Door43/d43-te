@@ -1,0 +1,51 @@
+====== Deuteronomy 23:5-6 ======
+
+===== TFT: =====
+
+<usfm>
+\v 5 But Yahweh our God did not pay attention to Balaam; instead, he caused Balaam to bless your ancestors, because Yahweh loved them.
+\v 6 As long as Israel is a nation, you must not do anything to cause things to go well for those two people-groups to enable them to prosper.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 5 But Yahweh our God did not pay attention to Balaam; instead, he caused Balaam to bless your ancestors, because Yahweh loved them.
+\v 6 As long as Israel is a nation, you must not do anything to cause things to go well for those two people groups to enable them to prosper.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 5 But Yahweh your God would not listen to Balaam; instead, Yahweh your God turned the curse into a blessing for you, because Yahweh your God loved you.
+\v 6 You must never seek their peace or prosperity, during all your days.
+</usfm>
+
+===== Important Terms: =====
+
+
+  * [[:te:obe:kt:god|God]]
+  * [[:te:obe:other:balaam]]
+  * [[:te:obe:kt:curse]]
+  * [[:te:obe:kt:bless|bless, blessed, blessing]]
+  * [[:te:obe:kt:love|love]]
+  * [[:te:obe:other:peace|peace, peaceful]]
+
+===== Translation Notes: =====
+
+  * **would not listen - ** did not pay attention, did not regard (See: [[:te:ta:vol1:translate:figs_idiom]])
+  * **Yahweh your God turned the curse into a blessing for you **- 'Turned' means 'shifted' or 'changed' here. The incident refers to [[te:bible:notes:num:23:11|Numbers 23:11]].
+  * **peace or prosperity **- general welfare (See: [[:te:ta:vol2:translate:figs_merism]])
+  * **during all your days**  - AT: "all your days forever"
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:23|Deuteronomy Chapter 23 Comprehension Questions]]**
+**[[:te:bible:notes:deu:23:03|<<]] | [[:te:bible:notes:deu:23:07|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

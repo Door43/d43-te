@@ -1,0 +1,78 @@
+====== Psalms 009:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, I will praise you with all of my inner being.
+\q2 I will tell others about all the wonderful things that you have done.
+\q1
+\v 2 I will sing to celebrate what you \f + \ft metonymy \f*, who are much greater than all other gods, \add have done\add*.
+\b
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, I will praise you with all of my inner being.
+\q2 I will tell others about all the wonderful things that you have done.
+\q1
+\v 2 I will sing to celebrate what you, who are much greater than all other gods, have done.
+\b
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 9
+\q
+\d For the chief musician; set to Muth Labben. A psalm of David.
+\b
+\q
+\v 1 I will give thanks to Yahweh with my whole heart;
+\q I will tell about all your marvelous deeds.
+\q
+\v 2 I will be glad and rejoice in you;
+\q I will sing praise to your name, Most High!
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:chief]]
+  * [[:te:obe:other:psalm]]
+  * [[:te:obe:other:david]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:other:heart]]
+  * [[:te:obe:other:amazed]]
+  * [[:te:obe:kt:works]]
+  * [[:te:obe:other:rejoice]]
+  * [[:te:obe:other:praise]]
+  * [[:te:obe:kt:name]]
+  * [[:te:obe:kt:mosthigh]]
+ 
+
+===== Translation Notes: =====
+
+See: [[:te:ta:workbench:translate:poetry]] and [[:te:ta:vol2:translate:figs_parallelism]].
+
+  * **set to Muth Labben** - Possible meanings: 1) AT: "This psalm will be sung to the tune of 'The Death of the Son'." or AT: "This psalm will be sung by high (soprano) voices."
+  * **A psalm of David** - AT: “This is a psalm that David wrote."
+  * **I will give thanks to Yahweh with my whole heart** - AT: " I will praise you Lord with all my heart;"
+  * **all your marvelous deeds** - AT: "all the marvelous things you have done."
+  * **I will sing praise to your name** - Here "name" represents God's whole being. AT: "I will give you praise," (See: [[:te:ta:vol2:translate:figs_metonymy]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:009|Psalms Chapter 009 Comprehension Questions]]**
+**[[:te:bible:notes:psa:008:009|<<]] | [[:te:bible:notes:psa:009:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

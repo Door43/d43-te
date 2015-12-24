@@ -1,9 +1,9 @@
 ====== List of the Key Terms in the OBE Directory ======
 
-Link to [[:tr:obe:other:home]] \\ 
-Link to [[:tr:obe:home]]
+Link to [[:te:obe:other:home]] \\ 
+Link to [[:te:obe:home]]
 
-<nspages tr:obe:kt -title -exclude:home -textPages="">
 
+<nspages te:obe:kt -title -exclude:home -textPages="">
 
 ~~NOCACHE~~

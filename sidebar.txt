@@ -19,3 +19,12 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Language Information**
 
 [[http://www.ethnologue.com/language/te|Ethnologue data]]
+
+
+**Resources**
+
+  * [[:te:bible:notes:home|translationNotes]]
+  * [[:te:bible:questions:comprehension:home|translationQuestions]]
+  * [[:te:obe:home|translationWords]]
+  * [[:te:ta:vol1:toc|translationAcademy Vol 1]]
+

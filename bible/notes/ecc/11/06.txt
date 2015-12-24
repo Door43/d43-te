@@ -1,0 +1,95 @@
+====== Ecclesiastes 11:6-8 ======
+
+===== TFT: =====
+
+<usfm>
+\v 6 Start planting your seeds in the morning,
+\q2 and do not stop planting them until the evening,
+\q1 because you do not know which ones will grow better,
+\q2 the ones you plant in the morning or the ones you plant later in the day,
+\q2 or whether both will grow well.
+
+\q1
+\v 7 It is very delightful to be alive
+\q2 and see \f + \ft metonymy \f* the sun rise every morning.
+\q1
+\v 8 Even if people live for many years,
+\q2 they should enjoy all of them.
+\q1 But they should not forget that \add some day they will die\add*
+\q2 and then they will never be able to see any light again,
+\q2 and we do not know what will happen to us after we die.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 6 Start planting your seeds in the morning,
+\q2 and do not stop planting them until the evening,
+\q1 because you do not know which ones will grow better,
+\q2 the ones you plant in the morning or the ones you plant later in the day,
+\q2 or whether both will grow well.
+
+\q1
+\v 7 It is very delightful to be alive
+\q2 and see the sun rise every morning.
+\q1
+\v 8 Even if people live for many years,
+\q2 they should enjoy all of them.
+\q1 But they should not forget that some day they will die
+\q2 and then they will never be able to see any light again,
+\q2 and they do not know what will happen to them after they die.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q1 
+\v 6 In the morning plant your seed;
+\q2 until the evening, work with your hands as needed, 
+\q1 for you know not which will prosper, 
+\q2 whether morning or evening, or this or that, 
+\q2 or whether they will both alike be good.
+\q1 
+\v 7 Truly the light is sweet, 
+\q2 and it is a pleasant thing for the eyes to see the sun.
+\q1 
+\v 8 If someone lives many years, 
+\q2 let him be happy in all of  them, 
+\q1 but let him think about the coming days of darkness, 
+\q2 for they will be many. 
+\q1 Everything to come is vanishing vapor.
+</usfm>
+
+===== Important Terms: =====
+
+  * seed
+  * prosper
+  * good
+  * [[:te:obe:kt:amen|amen, truly]]
+  * light
+  * lives
+  * darkness
+
+===== Translation Notes: =====
+
+  * **until the evening, work with your hands as needed,**  - AT: " continue until the sun sets,"
+  * **for you know not which will prosper,**  - AT: "for you do not know which of your works will bear fruit,"
+  * **whether morning or evening, or this or that,**  - AT: "whether your morning or evening planting," (See: Implicit/Explicit)
+  * **light is sweet,**  - Solomon means sunlight is very pleasant. (See: Idiom)
+  * **it is a pleasant thing for the eyes to see the sun.**  - Solomon is not saying that it is pleasant to look at the sun. AT: "it is good to be alive." (See: Idiom)
+  * **let him think about the coming days of darkness, **- AT: "while he is alive, he should consider what will happen after his death" (See: Euphemism)
+  * **for they will be many.**  - Life is temporary, but death lasts forever.
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:ecc:11|Ecclesiastes Chapter 11 Comprehension Questions]]**
+**[[:te:bible:notes:ecc:11:04|<<]] | [[:te:bible:notes:ecc:11:09|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

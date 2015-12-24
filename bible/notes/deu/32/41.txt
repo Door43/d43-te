@@ -1,0 +1,63 @@
+====== Deuteronomy 32:41 ======
+
+===== TFT: =====
+
+<usfm>
+\v 41 that if I sharpen my sword,
+\q2 and I \f + \ft synecdoche \f* prepare to punish people,
+\q1 I will get revenge on my enemies,
+\q2 and I will pay back those who hate me.
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 41 When I sharpen my sword
+\q and prepare to punish people,
+\q I will get revenge on my enemies,
+\q and I will pay back those who hate me.
+
+
+\q
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 41 When I sharpen my glittering sword,
+\q and when my hand begins to bring justice,
+\q I will render vengeance on my enemies,
+\q and will I pay back those who hate me.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:sword|sword]]
+  * [[:te:obe:other:hand]]
+  * [[:te:obe:kt:justice|just, justice, justly]]
+  * [[:te:obe:kt:avenge]]
+  * [[:te:obe:other:adversary]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+From verse 37-42, Moses quotes Yahweh.
+
+  * **When I sharpen my glittering sword - ** AT: "When I sharpen my shining sword" A glittering or shining sword is ready for use, after being cleaned and polished, whetted and made sharp to penetrate more easily. It shines against the light. The meaning is "When I am ready to execute judgement." (See: [[:te:ta:vol1:translate:figs_metaphor]])
+  * **when my hand begins to bring justice **- AT: "when I begin to carry out justice" The word "hand" is used in reference to God's power and action. (See: [[:te:ta:vol2:translate:figs_metonymy]])
+  * **I will render vengeance on my enemies**  - AT: "I will take vengeance on my enemies" or "I will punish my enemies"
+  * **and I will pay back those who hate me**  - A repetition of idea from the previous sentence. (See: [[:te:ta:vol2:translate:figs_doublet]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:39|<<]] | [[:te:bible:notes:deu:32:42|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

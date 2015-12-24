@@ -1,0 +1,51 @@
+====== Numbers 13:1-2 ======
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh said to Moses\f + \ft Or: me \f*,
+\v 2 "Send some men to Canaan \add land\add* to explore it. That is the land that I will give to you Israelites. Send men who are leaders in their tribes."
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh said to Moses,
+\v 2 "Send some men to Canaan to explore it. That is the land that I will give to you Israelites. Send men who are leaders in their tribes."
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\c 13
+\p
+\v 1 Then Yahweh spoke to Moses. He said,
+\v 2 "Send some men to examine the land of Canaan, which I have given to the people of Israel. Send a man from every tribe of their ancestors. Each man must be a leader among them."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:yahweh|Yahweh]]
+  * [[:te:obe:other:moses|Moses]]
+  * [[:te:obe:other:send|send, send out]]
+  * [[:te:obe:other:canaan|Canaan, Canaanite]]
+  * [[:te:obe:other:peoplegroup|people group, people]]
+  * [[:te:obe:other:israel|Israel, Israelites, nation of Israel]]
+  * [[:te:obe:other:tribe|tribe]]
+
+===== Translation Notes: =====
+
+  * **examine**  - This means to look at and consider.
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:num:13|Numbers Chapter 13 Comprehension Questions]]**
+**[[:te:bible:notes:num:12:16|<<]] | [[:te:bible:notes:num:13:03|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

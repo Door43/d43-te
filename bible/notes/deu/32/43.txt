@@ -1,0 +1,66 @@
+====== Deuteronomy 32:43 ======
+
+===== TFT: =====
+
+<usfm>
+\v 43 You people of all nations, you should praise Yahweh's people,
+\q2 because Yahweh gets revenge on those who kill the people who serve him;
+\q1 and he cleanses his people's land
+\q2 which has become defiled because of their sins."
+\b
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 43 You people of all nations, you should praise Yahweh's people,
+\q because Yahweh gets revenge on those who kill the people who serve him,
+\q and he cleanses his people's land
+\q which has become defiled because of their sins."
+\b
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 43 Rejoice, you nations, with God’s people,
+\q for he will avenge the blood of his servants;
+\q he will render vengeance on his enemies,
+\q and he will make atonement for his land, for his people.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:rejoice|rejoice, exult]]
+  * [[:te:obe:other:nation]]
+  * [[:te:obe:kt:peopleofgod|people of God, my people]]
+  * [[:te:obe:kt:avenge]]
+  * [[:te:obe:kt:blood]]
+  * [[:te:obe:other:servant]]
+  * [[:te:obe:other:adversary]]
+  * [[:te:obe:kt:atonement|atonement, atone]]
+
+===== Translation Notes: =====
+
+Moses speaks a poetic song to the people of Israel. Moses continues to use parallelism to emphasize what he is saying. (See: [[:te:ta:vol2:translate:figs_parallelism]])
+
+Moses describes the future, that has not happened yet at the moment of his speech, but he describes it as the past.
+
+These verses end Moses' song.
+
+  * **Rejoice, you nations **- Moses addresses the nations as if they were physically present. (See: [[:te:ta:vol2:translate:figs_apostrophe]])
+  * **for he will avenge the blood of his servants and he will render vengeance on his enemies - **  AT: "for he will take revenge for the death of his servants and he will take revenge on his enemies"
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:32|Deuteronomy Chapter 32 Comprehension Questions]]**
+**[[:te:bible:notes:deu:32:42|<<]] | [[:te:bible:notes:deu:32:44|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

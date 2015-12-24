@@ -2,12 +2,20 @@
 
 ===== Definition: =====
 
-When used as a noun- a hollow shape for forming objects; as a verb- the process of being made into a shape or likeness.
+A mold is a hollowed out piece of wood, metal, or clay that is used to form objects out of gold, silver, or other materials that can be softened and then shaped by the mold.
 
-  * Ancient people used molds to create ceramic objects, gold and silver jewelry and cast idols.
-  * The Bible speaks of a believer being molded into the image of Jesus Christ by the work of the indwelling Holy Spirit.
+  * Molds were used to make jewelry, dishes, and utensils for eating, among other things.
+  * In the Bible, molds are mentioned mainly in connection with molding statues to be used as idols, objects of worshiping false gods.
+  * Metals had to be heated so that they could be poured into the mold.
+  * To mold something means to form an object into a certain shape or likeness by using a mold or the hands to form a certain shape.
 
-(See also: other)
+===== Translation Suggestions =====
+
+  * This term could also be translated as, "to form" or "to shape" or "to make."
+  * The word "molded" could be translated as "shaped" or "formed."
+  * The object "mold" could possibly be translated with a phrase or word that means, "shaped container" or "sculpted dish." 
+
+(See also: [[:te:obe:kt:falsegod]], [[:te:obe:other:idol]])
 
 ===== Bible References: =====
 
@@ -15,4 +23,4 @@ When used as a noun- a hollow shape for forming objects; as a verb- the process 
 
 ~~NOCACHE~~
 
-{{tag>draft ktlink}}
+{{tag>publish}}

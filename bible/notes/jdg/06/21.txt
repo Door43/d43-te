@@ -1,0 +1,44 @@
+====== Judges 06:21 ======
+
+===== TFT: =====
+
+<usfm>
+\v 21 Then Yahweh touched the meat and bread with the walking stick that was in his hand. A fire flamed up from the rock and burned up everything that Gideon had brought! And then Yahweh disappeared.
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 21 Then Yahweh reached out and touched the meat and bread with the walking stick that was in his hand. A fire flamed up from the rock and burned up the meat and the bread that Gideon had brought! And then the angel of Yahweh disappeared.
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 21 Then the angel of Yahweh reached out with the end of the staff in his hand. With it he  touched the flesh and the unleavened bread; a fire went up out of the rock and consumed the meat and the unleavened bread. Then the angel of Yahweh went away and Gideon could no longer see him.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:angel]]
+  * [[:te:obe:kt:yahweh]]
+  * [[:te:obe:other:staff]]
+  * [[:te:obe:other:hand]]
+  * [[:te:obe:kt:flesh]]
+  * [[:te:obe:kt:unleavenedbread]]
+  * [[:te:obe:other:fire]]
+  * [[:te:obe:other:consume]]
+  * [[:te:obe:other:Gideon]]
+
+===== Translation Notes: =====
+
+  * **away and Gideon could no longer see him**  - "away and out of Gideon's sight"
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:06:19|<<]] | [[:te:bible:notes:jdg:06:22|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

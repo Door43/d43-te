@@ -1,0 +1,42 @@
+====== Deuteronomy 22:30 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 30 A man must not disgrace his father by having sex with any of his father's wives."
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 30 A man must not take what belongs to his father by sleeping with any of his father's wives.
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 30 A man must not take his father’s wife as his own; he must not take away his father’s marriage rights.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:father]]
+
+===== Translation Notes: =====
+
+  * **take his father's wife **- The phrase particularly refers to "take...for oneself" and "take...in marriage" here.
+  * **not take away his father's marriage rights **- "not uncover his father's skirt", which means "not to disgrace his father" (See: [[:te:ta:vol1:translate:figs_idiom]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:22|Deuteronomy Chapter 22 Comprehension Questions]]**
+**[[:te:bible:notes:deu:22:28|<<]] | [[:te:bible:notes:deu:23:01|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

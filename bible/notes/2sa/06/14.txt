@@ -1,0 +1,54 @@
+====== 2 Samuel 06:14-15 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 14 David was wearing only a linen cloth wrapped around his waist, and was dancing very energetically to honor Yahweh.
+\v 15 David and the Israelite men took the sacred chest up \add to Jerusalem\add*, shouting \add loudly\add* and blowing trumpets.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 14 David was wearing only a linen cloth wrapped around his waist, and was dancing very energetically to honor Yahweh.
+\v 15 David and the Israelite men took the sacred chest up to Jerusalem, shouting loudly and blowing trumpets.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 14 David danced before Yahweh with all his might; he was wearing only a linen ephod.
+\v 15 So David and all the house of Israel brought up the ark of Yahweh with shouting and the sound of trumpets.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:mighty|mighty, might]]
+  * [[:te:obe:other:ephod|ephod]]
+  * [[:te:obe:other:house|house]]
+  * [[te:obe:other:israel]]
+  * [[:te:obe:other:trumpet|trumpet, horn]]
+
+===== Translation Notes: =====
+
+  * **David danced …****with all his might - **" David moved his feet and body to the rhythm of the music…​as hard as he could"
+  * **linen**  - a cloth made from fibers of the flax plant
+  * **all the house of Israel **  - all 30,000 men chosen by David to bring the ark back to the City of David
+  * **shouting**  - uttering a loud call or cry
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:2sa:06|2 Samuel Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:2sa:06:12|<<]] | [[:te:bible:notes:2sa:06:16|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

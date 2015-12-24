@@ -1,0 +1,41 @@
+===== Find the Resources in translationStudio =====
+
+This module answers the question: How do I find Resources in translationStudio?\\
+Before you start this module have you learned about:
+  * [[te:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[te:ta:vol1:translate:resources_intro|Introduction to Resources]]
+
+==== translationStudio v2.3 ====
+
+  * When editing - click on the word 'Resources' on the top bar.
+  * Tap the word 'Notes' for the translationNotes.
+  * Tap the word 'Words' for the translationWords. 
+
+==== translationStudio v3 ====
+
+  * Click on the icon to view the panel.
+  * Choose the heading of 'Terms' for links to the information about translationWords.
+  * Choose the heading of 'Notes' for the translationNotes.
+
+
+
+
+
+Next we recommend you learn about:
+  * [[te:ta:vol1:tech:ts_intro|translationStudio]]
+  * [[te:ta:vol1:tech:ts_install|Install translationStudio on an Android Device]]
+  * [[te:ta:vol1:tech:ts_first|Use translationStudio for the First Time]]
+  * [[te:ta:vol1:tech:ts_select|Select Source and Target Languages]]
+  * [[te:ta:vol1:tech:ts_open|Opening a Translation Project]]
+  * [[te:ta:vol1:tech:ts_navigate|Navigate in translationStudio]]
+  * [[te:ta:vol1:tech:ts_request|Find my Language]]
+  * [[te:ta:vol1:tech:ts_translate|Translating in translationStudio]]
+  * [[te:ta:vol1:tech:ts_create|Create and Edit Text]]
+  * [[te:ta:vol1:tech:ts_useresources|How to Use the Resources in translationStudio]]
+  * [[te:ta:vol1:tech:ts_share|Backup and Share Your Work]]
+  * [[te:ta:vol1:tech:ts_upload|Upload Your Work]]
+  * [[te:ta:vol1:tech:ts_update|Update translationStudio Projects]]
+  * [[te:ta:vol1:tech:ts_publish|Publish Content to unfoldingWord]]
+  * [[te:ta:vol1:tech:translate_helpts|Finding Help for translationStudio]]
+  * [[te:ta:vol1:tech:ts_problem|Report a Problem]]
+

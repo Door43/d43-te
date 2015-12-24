@@ -1,0 +1,84 @@
+====== Deuteronomy 33:3-4 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 3 Yahweh truly loves his people,
+\q2 and protects \f + \ft metonymy \f* all those who belong to him.
+\q1 So they prostrate themselves in front of him,
+\q2 and they listen to his instructions.
+\q1
+\v 4 I gave them laws to obey,
+\q2 laws that would be the most precious thing that \add the descendants of\add* Jacob owned.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 3 Yahweh truly loves his people
+\q and protects all those who belong to him.
+\q So they prostrate themselves in front of him,
+\q and they listen to his instructions.
+\q
+\v 4 I gave them laws to obey,
+\q laws that would forever for the descendants of Jacob.
+
+
+\q
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 3 Indeed, he loves the people;
+\q all his holy people are in your hand,
+\q and they bowed down at your feet;
+\q every one received your words.
+\q
+\v 4 I, Moses, commanded you a law,
+\q an inheritance for the assembly of Jacob.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:love]]
+  * [[:te:obe:kt:holy]]
+  * [[:te:obe:other:hand]]
+  * [[:te:obe:kt:bow]]
+  * [[:te:obe:kt:receive]]
+  * [[:te:obe:kt:word]]
+  * [[:te:obe:other:command]]
+  * [[:te:obe:other:law]]
+  * [[:te:obe:kt:inherit]]
+  * [[:te:obe:kt:assembly]]
+  * [[:te:obe:other:jacob]]
+ 
+===== Translation Notes: =====
+
+
+    * **the people**  - the people of the twelve tribes of Israel
+    * **all his holy people are in your hand**  - The pronouns "his" and "your" refer to Yahweh. The original Hebrew is not always consistent in the use of pronouns. "In your hand" refers to Yahweh's power and protection. (See:[[:te:ta:vol2:translate:figs_metonymy]]) AT: "All your people are in your power" or "Yahweh protects those who belong to him." 
+    * **received your words**  - "listened to your instructions" (See:[[:te:ta:vol2:translate:figs_metonymy]])
+    * **inheritance**  - An inheritance is a valuable possession passed on from one generation to the next. AT: "possession" or "precious possession"
+
+  
+===== Links: =====
+
+  * **[[te:bible:questions:comprehension:deu:33|Deuteronomy Chapter 33 Comprehension Questions]]**
+
+ 
+
+**[[en/bible/notes/deu/33/01|<<]] | [[en/bible/notes/deu/33/05|>>]]**
+
+~~DISCUSSION~~
+
+
+{{tag>check}}
+
+~~NOCACHE~~

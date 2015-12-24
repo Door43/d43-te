@@ -1,0 +1,59 @@
+====== Deuteronomy 14:26-27 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 26 There, \add with that money\add*, you may buy whatever you want to—beef or lamb or wine or fermented drinks. And there, in the presence of Yahweh, you and your families should eat \add and drink\add* those things and be happy.
+\v 27 But be sure to not neglect\f + \ft Or: forget \f* \add to help\add* the descendants of Levi who live in your towns, because they will not own any land.
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 26 There, with that money, you may buy whatever you want to—beef or lamb or wine or fermented drinks. And there, in the presence of Yahweh, you and your families should eat and drink those things and be happy.
+\v 27 But be sure to not neglect to help the descendants of Levi who live in your towns, because they will not own any land.
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 26 There you will spend the money for whatever your soul desires: for oxen, or for sheep, or for wine, or for strong drink, or for whatever your soul wishes for; you will eat there before Yahweh your God, and you will rejoice, you and your household.
+\v 27 The Levite who is within your gates—do not forsake him, for he has no portion nor inheritance with you.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:soul|soul]]
+  * [[te:obe:other:ox]]
+  * [[te:obe:other:sheep]]
+  * [[te:obe:other:wine]]
+  * [[:te:obe:other:strongdrink|strong drink]]
+  * [[:te:obe:other:rejoice|rejoice, exult]]
+  * [[:te:obe:other:household|household]]
+  * [[:te:obe:other:levite|Levite, Levi]]
+  * [[:te:obe:kt:gate|gate, gate bar]]
+  * [[:te:obe:kt:inherit|inherit, inheritance]]
+
+===== Translation Notes: =====
+
+  * **for whatever your soul desires** - AT: "for whatever you want" (See: [[:te:ta:vol2:translate:figs_synecdoche]])
+  * **The Levite who is within your gates** - AT: "The Levite who lives in your towns"
+  * **do not forsake him** - make sure to give some of your tithe to the levite.
+  * **for he has no portion nor inheritance with you** - This means he does not own land. Yahweh is the inheritance for the Levites.
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:deu:14|Deuteronomy Chapter 14 Comprehension Questions]]**
+**[[:te:bible:notes:deu:14:24|<<]] | [[:te:bible:notes:deu:14:28|>>]]**
+
+~~DISCUSSION~~{{tag>publish mgr}}
+
+~~NOCACHE~~

@@ -1,0 +1,63 @@
+====== Psalms 046:8-9 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 8 Come and see\f + \ft Or: think about \f* the amazing things that Yahweh has done \f + \ft doublet \f*!
+\q
+\v 9 He stops wars all over the world;
+\q2 he breaks bows \add and arrows\add*;
+\q2 he destroys spears;
+\q2 he burns up shields.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 8 Come and see!
+\q
+\v 9 He stops wars all over the world;
+\q2 he breaks bows and arrows;
+\q2 he destroys spears;
+\q2 he burns up shields.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 8 Come, behold the deeds of Yahweh,
+\q the destruction he has caused on earth.
+\q
+\v 9 He makes wars cease to the ends of the earth;
+\q he breaks the bow and cuts the spear into pieces;
+\q he burns the chariots.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:works|works, deeds, work]]
+  * [[te:obe:other:earth]]
+  * [[:te:obe:other:bowweapon|bow and arrow]]
+  * [[:te:obe:other:chariot|chariot]]
+===== Translation Notes: =====
+
+There are no translation notes needed for these verses.
+
+ 
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:046|Psalms Chapter 046 Comprehension Questions]]**
+**[[:te:bible:notes:psa:046:006|<<]] | [[:te:bible:notes:psa:046:010|>>]]**
+
+~~DISCUSSION~~{{tag>publish text book2}}
+
+~~NOCACHE~~

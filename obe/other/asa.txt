@@ -2,20 +2,19 @@
 
 ===== Facts: =====
 
-Text
-  * bullet
-  * bullet
+Asa was a king who ruled over the kingdom of Judah for forty years, from 913-873 BC.
 
-(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+  * King Asa was a good king who got rid of many of the idols and the worship of false gods, restoring the worship of Yahweh.
+  * Yahweh gave King Asa success in his warfare against other nations.
+  * Later in his reign he made an alliance with Aram to help him in war against Israel, instead of trusting in Yahweh.
+  * Because he stopped trusting Yahweh, he was inflicted with a disease which eventually killed him.
 
-(See also: other)
+(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
 
 ===== Bible References: =====
 
-{{topic>Asa&nocomments}}
-
-~~DISCUSSION~~
+{{topic>Asa&nocomments}}~~DISCUSSION~~
 
 ~~NOCACHE~~
 
-{{tag>create 1Ki15 ktlink}}
+{{tag>publish}}

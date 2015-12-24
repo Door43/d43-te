@@ -9,9 +9,9 @@ Ekron was a major city of the Philistines, located nine miles inland from the Me
   * After much sickness and death occurred in the city, the Philistines sent the ark back to Israel.
 
 
-(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]])
+(Translation suggestions: [[:te:ta:vol1:translate:translate_names|Translate Names]]) 
 
-(See also: [[philistines]], [[beelzebub]], [[arkofthecovenant]], [[falsegod]] other)
+(See also: [[[[:En:obe:other:philistines]], [[:te:obe:other:beelzebul]], [[:te:obe:other:arkofthecovenant]], [[:te:obe:other:falsegod]])
 
 ===== Bible References: =====
 
@@ -21,4 +21,4 @@ Ekron was a major city of the Philistines, located nine miles inland from the Me
 
 ~~NOCACHE~~
 
-{{tag>publish ktlink}}
+{{tag>publish}}

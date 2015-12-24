@@ -1,0 +1,47 @@
+====== Numbers 05:15 ======
+
+===== TFT: =====
+
+<usfm>
+\v 15 he should take his wife to the priest. He must take along as an offering two quarts\f + \ft Or: liters \f* of barley flour. The priest must not pour \add olive\add* oil or incense on it, because this is an offering that the man has brought because he is jealous\f + \ft Or: wants his wife to sleep only with him \f*. It is an offering to find out if she is guilty or not.
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 15 he should take his wife to the priest. He must take along as an offering two liters of barley flour. The priest must not pour olive oil or incense on it, because this is an offering that the man has brought because he is jealous. It is an offering to find out if she is guilty or not.
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 15 In such cases, the man should bring his wife to the priest. The husband must bring a drink offering for her. He must bring a tenth of an ephah of barley flour. He must pour no oil or frankincense on it because it is a grain offering of jealousy, a grain offering as a possible indicator of sin.
+</usfm>
+
+===== Important Terms: =====
+
+  * [[te:obe:kt:priest]]
+  * [[:te:obe:other:drinkoffering]]
+  * [[:te:obe:other:tenth]]
+  * [[te:obe:other:barley]]
+  * [[:te:obe:other:oil]]
+  * [[:te:obe:other:frankincense]]
+  * [[:te:obe:other:grainoffering]]
+  * [[te:obe:kt:sin]]
+
+===== Translation Notes: =====
+
+  * **a tenth of an ephah of barley flour** - An "ephah" is a unit of volume equal to about 22 liters. AT: "about 2.2 liters of barley flour" (See: [[te:obe:other:biblicalvolume]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:num:05|Numbers Chapter 05 Comprehension Questions]]**
+**[[:te:bible:notes:num:05:13|<<]] | [[:te:bible:notes:num:05:16|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

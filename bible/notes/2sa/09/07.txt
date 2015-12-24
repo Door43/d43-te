@@ -1,0 +1,56 @@
+====== 2 Samuel 09:7-8 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid; I will be kind to you because Jonathan your father \add was my friend was\add*. I will give back to you all the land that belonged to your grandfather Saul. And \add I want\add* you to always eat with me at my house \f + \ft metonymy \f*."
+\p
+\v 8 Mephibosheth bowed \add in front of David again\add* and said, "Sir, I am \add as worthless as\add* \f + \ft metaphor \f* a dead dog; I do not deserve \f + \ft rhetorical question \f* that you act kindly toward me!"
+\p
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid. I will be kind to you because Jonathan your father was my friend. I will give back to you all the land that belonged to your grandfather Saul. And I want you to always eat with me in my house."
+\p
+\v 8 Mephibosheth bowed in front of David again and said, "Sir, I am as worthless as a dead dog. I do not deserve that you act kindly toward me!"
+
+
+\p
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\v 7 David said to him, "Do not be afraid, for I will surely show you kindness for Jonathan your father’s sake, and I will restore to you all the land of Saul your grandfather, and you will always eat at my table."
+\v 8 Mephibosheth bowed and said, "What is your servant, that you should look with favor on such a dead dog as I am?"
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:te:obe:kt:fear]]
+  * [[:te:obe:kt:restore]]
+  * [[:te:obe:kt:favor]]
+  * [[:te:obe:kt:death]]
+ 
+
+===== Translation Notes: =====
+
+  * **for I will surely show you**  - Here the "you" refers only to Mephibosheth since David is addressing him. (See: [[:te:ta:vol1:translate:figs_you|Forms of You]])
+  * **you will always eat at my table**  - Here the "my table" refers to being together with or in David's presence. (See: [[:te:ta:vol2:translate:figs_metonymy|Metonymy]]) Here the "you" refers only to Mephibosheth since David is addressing him. (See: [[:te:ta:vol1:translate:figs_you|Forms of You]])
+  * **What is your servant, that you should...?**  - This is a [[:te:ta:vol1:translate:figs_rquestion|Rhetorical Question]]. Also, in this verse the "your" and "you,"both refer only to David since Mephibosheth is addressing him back. (See: [[:te:ta:vol1:translate:figs_you|Forms of You]])
+  * **on such a dead dog**  - or "on such a has-been". The implication is that Saul's kingdom is history in the same way that a dead dog is history and that it is impossible to bring back the kingdom to Saul. (See: [[:te:ta:vol1:translate:figs_metaphor|Metaphor]])
+
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:2sa:09|2 Samuel Chapter 09 Comprehension Questions]]**
+**[[:te:bible:notes:2sa:09:05|<<]] | [[:te:bible:notes:2sa:09:09|>>]]**
+
+~~DISCUSSION~~{{tag>check }}
+
+~~NOCACHE~~

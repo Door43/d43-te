@@ -1,0 +1,44 @@
+====== Judges 06:36-37 ======
+
+===== TFT: =====
+
+<usfm>
+\v 36 Then Gideon said to God, "If you are truly going to enable me to rescue the Israelite people as you promised,
+\v 37 confirm it by doing this: Tonight I will put a dry wool fleece on the ground where I thresh the grain. Tomorrow morning, if the fleece is wet with dew but the ground is dry, then I will know that I am the one you will enable to rescue the people of Israel as you promised."
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 36 Then Gideon said to God, "If you are truly going to enable me to rescue the Israelite people as you promised,
+\v 37 confirm it by doing this: Tonight I will put a dry wool fleece on the ground where I thresh the grain. Tomorrow morning, if the fleece is wet with dew but the ground is dry, then I will know that I am the one you will enable to rescue the people of Israel as you promised."
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\p
+\v 36 Gideon said to God, “If you intend to use me to save Israel, as you have said—
+\v 37 Look, I am putting a woolen fleece on the threshing floor. If there is dew only on the fleece, and it is dry on all the ground, then I will know that you will use me to save Israel, as you said.”
+</usfm>
+
+===== Important Terms: =====
+
+  * [[:te:obe:other:gideon|Gideon]]
+  * [[:te:obe:kt:god|God]]
+  * [[:te:obe:kt:save|save]]
+  * [[:te:obe:other:israel|Israel]]
+  * [[:te:obe:other:thresh|thresh, threshing floor]]
+
+===== Translation Notes: =====
+
+  * **woolen fleece** - A fleece is the wooly coat of a sheep. 
+  * **I will know that you will**  - "that will confirm to me that you will"
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:jdg:06|Judges Chapter 06 Comprehension Questions]]**
+**[[:te:bible:notes:jdg:06:34|<<]] | [[:te:bible:notes:jdg:06:38|>>]]**
+
+~~DISCUSSION~~{{tag>check}}
+
+~~NOCACHE~~

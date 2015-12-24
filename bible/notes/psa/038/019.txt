@@ -1,0 +1,61 @@
+====== Psalms 038:19-20 ======
+
+===== TFT: =====
+
+<usfm>
+\v 19 My enemies are healthy and strong;
+\q2 there are many people who hate me for no reason.
+\q1
+\v 20 Those who do evil things to me in return for my doing good things to them
+\q2 oppose me because I try to do what is right.
+\b
+\q1
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 19 My enemies are healthy and strong;
+\q2 there are many people who hate me for no reason.
+\q1
+\v 20 Those who do evil things to me in return for my doing good things to them
+\q2 oppose me because I try to do what is right.
+\b
+
+
+\q1
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\q
+\v 19 But my enemies are numerous;
+\q those who hate me wrongfully are many.
+\q
+\v 20 They repay me evil for good;
+\q they hurl accusations at me although I have pursued what is good.
+</usfm>
+
+===== Important Terms: =====
+
+  * numerous
+  * [[:te:obe:other:wrong|wrong, mistreat, hurt]]
+  * repay
+  * [[:te:obe:kt:evil|evil, wicked, wickedness]]
+  * hurl
+  * [[:te:obe:other:accuse|accuse, accusation, accuser]]
+  * pursue
+
+===== Translation Notes: =====
+
+  * **But my enemies are numerous**…**are many**- (See Parallelism. In Parallelism two clauses that are similar are used together that mean basically the same thing.)
+  * **They repay me evil for good**  - AT: My good actions are returned to me by evil deeds."
+===== Links: =====
+
+  * **[[:te:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+**[[:te:bible:notes:psa:038:017|<<]] | [[:te:bible:notes:psa:038:021|>>]]**
+
+~~DISCUSSION~~{{tag>check book1}}
+
+~~NOCACHE~~
