@@ -7,7 +7,17 @@
 
 వనరులు
 
-    * [[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]
+  * [[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]
+      * [[:te:obs:notes|translationNotes]]
+      * [[:te:obs:notes:questions:home|translationQuestions]]
+      * [[:te:obe:home|translationWords]]
+  *  [[:te:bible:intro|Bible]]
+      * [[:te:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:te:bible:notes:home|translationNotes]]
+      * [[:te:bible:questions:comprehension:home|translationQuestions]]
+      * [[:te:obe:home|translationWords]]
+  *  [[:te:ta|translationAcademy]]
+      * [[:te:ta:vol1:toc|translationAcademy Vol 1]]
 
 **Downloads**
 
