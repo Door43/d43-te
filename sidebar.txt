@@ -31,12 +31,12 @@
       * [[:te:bible:notes:home|translationNotes]]
       * [[:te:bible:questions:comprehension:home|translationQuestions]]
       * [[:te:obe:home|translationWords]]
-  * [[:en:ta|translationAcademy (English)]]
-      * [[:en:ta:vol1:intro:toc_intro|Introduction]]
-      * [[:en:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
-      * [[:en:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
-      * [[:en:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
-      * [[:en:ta:vol1:process:toc_processvol1_2|Process Manual]]
+  * [[:te:ta|translationAcademy (English)]]
+      * [[:te:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:te:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:te:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:te:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:te:ta:vol1:process:toc_processvol1_2|Process Manual]]
 
 
 **About Door43**
