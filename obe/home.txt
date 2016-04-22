@@ -1,10 +1,9 @@
 ====== Complete List of translationWords - Telugu ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
-
-  
-  * [[:te:obe:kt:home|List of the Key Terms in the OBE Directory]]
-  * [[:te:obe:other:home|List of the Other Terms in the OBE Directory]]
+ 
+   * [[:te:obe:kt:home|List of the Key Terms in the OBE Directory]]
+   * [[:te:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 
