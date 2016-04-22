@@ -1,9 +1,11 @@
-====== Complete List of Important Terms - English ======
+====== Complete List of translationWords - Telugu ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:te:obe:kt:home]]
-  * [[:te:obe:other:home]]
+  
+  * [[:te:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:te:obe:other:home|List of the Other Terms in the OBE Directory]]
+
 
 
 ==== All Terms in the OBE: ====
